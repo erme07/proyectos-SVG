@@ -4,8 +4,8 @@
     box-sizing: border-box;
 }
 :root{
-    --mainColor: #383232;
-    --secondColor: #e57716;
+    --mainColor: #343331;
+    --secondColor: #f67601;
     --auxColor:#814510;
     --auxcolor2:#f4b885;
 }
@@ -26,16 +26,27 @@ body{
     height: 30vh;
     background-color: #814510;
 }
+.main-color {fill: var(--mainColor);}
+.second-color {fill: var(--secondColor);}
+.base-fondo {fill: var(--auxColor);}
+.black {fill: #000000;}
+.white {fill: #ffffff;}
+.tongue {fill:#fe878f;}
 
-#base-fondo{
-    fill: #814510!important;
+.stroke{
+    stroke:#000000;
+    stroke-linecap:round;
+    stroke-linejoin:round;
 }
-#boca{
-    opacity: 0;
+.stroke-hard {stroke-width:4px;}
+.stroke-light {stroke-width:2px;}
+.void {fill: none;}
+.marker{
+    marker-start:url(#marker_2);
+    marker-end:url(#marker_1)
 }
-#cabeza{
-    transform: translateY(60px);
-}
+#boca {opacity: 0;}
+#cabeza {transform: translateY(60px);}
 
 #perro:hover #boca{
     animation: mostrar 0s linear 1s 1 forwards;
