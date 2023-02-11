@@ -6,4 +6,4 @@ Este repositorio contiene pequeños proyectos con imagenes SVG. El propósito es
 - [Animación Perro](https://erme07.github.io/proyectos-SVG/perroCartoon/PerroSVG.html)
 
 ### Preview
-![Preview de algunos dibujos dentro del repositorio](https://erme07.github.io/Dibujos-CSS/preview.jpg)
+![Preview de algunos dibujos dentro del repositorio](https://erme07.github.io/proyectos-SVG/perroCartoon/img/preview.jpg)
