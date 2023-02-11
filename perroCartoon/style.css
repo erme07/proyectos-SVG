@@ -26,24 +26,15 @@ body{
     height: 30vh;
     background-color: #814510;
 }
-#rect2232{
-    fill:#814510!important;
-}
-#patas path{
-    display:inline;
-    fill:#e57716;
-    fill-opacity:1;
-    stroke:#000000;
-    stroke-width:1.5;
-    stroke-linejoin:round;
-    stroke-dasharray:none;
-    stroke-opacity:1
+
+#base-fondo{
+    fill: #814510!important;
 }
 #boca{
     opacity: 0;
 }
 #cabeza{
-    transform: translate(-39.57075px,-70.89694px);
+    transform: translateY(60px);
 }
 
 #perro:hover #boca{
@@ -53,8 +44,8 @@ body{
     animation: movimiento 1s linear 0s 1 forwards;
 }
 @keyframes movimiento {
-    0%{transform: translate(-39.57075px,-70.89694px);}
-    100%{transform: translate(-39.57075px,-104.89694px);}
+    0%{transform: translateY(60px);}
+    100%{transform: translateY(0px);}
 }
 @keyframes mostrar{
     0%{opacity: 0;}
