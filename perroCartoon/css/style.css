@@ -6,8 +6,7 @@
 :root{
     --mainColor: #343331;
     --secondColor: #f67601;
-    --auxColor:#814510;
-    --auxcolor2:#f4b885;
+    --baseColor:#814510;
 }
 body{
     height: 100vh;
@@ -28,7 +27,7 @@ body{
 }
 .main-color {fill: var(--mainColor);}
 .second-color {fill: var(--secondColor);}
-.base-fondo {fill: var(--auxColor);}
+.base-fondo {fill: var(--baseColor);}
 .black {fill: #000000;}
 .white {fill: #ffffff;}
 .tongue {fill:#fe878f;}
@@ -45,6 +44,7 @@ body{
     marker-start:url(#marker_2);
     marker-end:url(#marker_1)
 }
+#perro {cursor: pointer;}
 #boca {opacity: 0;}
 #cabeza {transform: translateY(60px);}
 
