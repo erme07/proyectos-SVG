@@ -17,8 +17,8 @@
   <g id="cabeza">
     <path class="main-color stroke stroke-hard" d="M 50,145 C 35.416566,35.158255 80.768222,6.8909634 150,5 216.68416,6.2405466 265.37175,31.993647 250,145" />
     <g id="cejas">
-      <ellipse class="second-color" cx="119.06727" cy="27.929359" rx="11.091563" ry="7.0825648" />
-      <ellipse class="second-color" cx="181.34038" cy="27.929359" rx="11.091563" ry="7.0825648" />
+      <ellipse class="second-color ceja-izq" cx="119.06727" cy="27.929359" rx="11.091563" ry="7.0825648" />
+      <ellipse class="second-color ceja-der" cx="181.34038" cy="27.929359" rx="11.091563" ry="7.0825648" />
     </g>
     <g id="ojos">
       <ellipse class="black" cx="111.98471" cy="47.963371" rx="10.156131" ry="10.434381" />

@@ -48,12 +48,16 @@ body{
 #boca {opacity: 0;}
 #cabeza {transform: translateY(60px);}
 
-#perro:hover #boca{
-    animation: mostrar 0s linear 1s 1 forwards;
+.ceja-izq {transform-origin: 119.06727px 33.929359px; transform: rotate(45deg);}
+.ceja-der {transform-origin: 181.34038px 33.929359px; transform: rotate(-45deg);}
+
+#perro:hover .ceja-izq, #perro:hover .ceja-der{
+    transform: rotate(0deg);
+    transition: transform .3s linear 1s;
 }
-#perro:hover #cabeza{
-    animation: movimiento 1s linear 0s 1 forwards;
-}
+#perro:hover #boca {animation: mostrar 0s linear 1.3s 1 forwards;}
+#perro:hover #cabeza {animation: movimiento 1s linear 0s 1 forwards;}
+
 @keyframes movimiento {
     0%{transform: translateY(60px);}
     100%{transform: translateY(0px);}
