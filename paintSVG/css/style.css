@@ -3,3 +3,14 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+ellipse, path{
+    fill:#ffffff;
+    stroke:#000000;
+    stroke-width:4px;
+    stroke-linecap:round;
+    stroke-linejoin:round;
+}
+#textura path{
+    stroke-width:2px;
+}
