@@ -3,7 +3,7 @@
 
 <svg width="500" height="550" viewBox="0 0 500 550" version="1.1" id="svg5" xml:space="preserve"
   xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
-  
+  <path d="M 0,550 V 0 h 500 v 550 z" id="fondo" />
   <g id="copa">
     <ellipse id="base" cx="254.12733" cy="487.58392" rx="112.0574" ry="38.553146" />
     <path id="soporte" d="m 224.88044,383.89115 c 25.85872,37.19767 12.6257,65.56609 -8.92903,89.36284 13.34107,14.09953 66.93617,15.50964 78.57637,-0.53453 -24.03467,-26.02039 -29.66449,-50.11874 -11.07333,-90.34774"/>
