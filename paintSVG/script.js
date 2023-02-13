@@ -6,8 +6,9 @@ lienzo.addEventListener("load",function(){
     const svgDocument = lienzo.contentDocument;
     const svg = svgDocument.getElementById("svg5");
     svg.addEventListener('click',(e)=>{
-        console.log(e.target);
-        e.target.style.fill = colorSelected;
+        if(e.target.getAttribute("data-tipo") === 'seleccionable'){
+            e.target.style.fill = colorSelected;
+        }
     })
 });
 
