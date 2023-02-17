@@ -18,7 +18,6 @@ body{
     display: flex;
     flex-direction: column;
 }
-#svg5 {cursor: url(../img/bote.svg)0 30, auto;}
 
 ellipse, path{
     fill:#ffffff;
@@ -29,8 +28,7 @@ ellipse, path{
 }
 #textura path {stroke-width:2px;}
 
-#svg5 ellipse:hover, #svg5 path:not(#textura path):hover{
-    stroke: rgb(0, 194, 58);
+.lienzo ellipse:hover, .lienzo path:not(#textura path):hover{
     stroke-width: 6px;
     stroke-dasharray: 10px 20px;
     animation: bordes 1s linear infinite;
