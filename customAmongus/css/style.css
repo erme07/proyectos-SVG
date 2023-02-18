@@ -6,6 +6,19 @@
 :root{
     --panelMainColor:#A0C0A4;
     --panelSecondColor:#748B78;
+
+    --colorRed:#C51111;
+    --colorBlue:#132ED1;
+    --colorGreen:#117F2D;
+    --colorPink:#ED54BA;
+    --colorOrange:#EF7D0E;
+    --colorYellow:#F6F658;
+    --colorBlack:#3F474E;
+    --colorWhite:#D6E0F0;
+    --colorPurple:#6B31BC;
+    --colorBrown:#71491E;
+    --colorCyan:#38FEDB;
+    --colorLime:#50EF39;
 }
 @font-face {
     font-family: formula-one;
@@ -27,7 +40,7 @@ main {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 50px 1fr;
-    gap: 20px;
+    gap: 20px 15px;
     grid-auto-flow: row;
     grid-template-areas:
       "menu menu"
@@ -36,13 +49,21 @@ main {
 
 .menu { grid-area: menu; }
 .preview { grid-area: preview; }
-.a3 { grid-area: items; }
+.items { grid-area: items; }
 
+.preview{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 .preview, .items{
     background-color: var(--panelSecondColor);
     border-radius: 5px;
 }
 
+.items{
+    background-color: unset;
+}
 .menu{
     display: grid;
     grid-template-columns: repeat(5, 1fr);
@@ -57,4 +78,56 @@ main {
     font-size: 20px;
     letter-spacing: 5px;
     text-align: center;
+}
+
+.colors {
+    padding: 20px 15px;
+    display: grid; 
+    grid-template-columns: 1fr 1fr 1fr; 
+    grid-template-rows: 1fr 1fr 1fr 1fr; 
+    gap: 20px 0px;
+    justify-items: center;
+    grid-template-areas: 
+      "color1 color2 color3"
+      "color4 color5 color6"
+      "color7 color8 color9"
+      "color10 color11 color12";
+      display: none;
+}
+.colors div{
+    width: 55px;
+    height: 55px;
+    border:4px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.color--1 { grid-area: color1; background-color: var(--colorRed); }
+.color--2 { grid-area: color2; background-color: var(--colorBlue); }
+.color--3 { grid-area: color3; background-color: var(--colorGreen); }
+.color--4 { grid-area: color4; background-color: var(--colorPink); }
+.color--5 { grid-area: color5; background-color: var(--colorOrange); }
+.color--6 { grid-area: color6; background-color: var(--colorYellow); }
+.color--7 { grid-area: color7; background-color: var(--colorBlack); }
+.color--8 { grid-area: color8; background-color: var(--colorWhite); }
+.color--9 { grid-area: color9; background-color: var(--colorPurple); }
+.color--10 { grid-area: color10; background-color: var(--colorBrown); }
+.color--11 { grid-area: color11; background-color: var(--colorCyan); }
+.color--12 { grid-area: color12; background-color: var(--colorLime); }
+
+.hats{
+    display: grid; 
+    grid-template-columns: 1fr 1fr 1fr 1fr; 
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr; 
+    gap: 10px;
+    justify-items: center;
+    
+}
+.hats div{
+    width: 60px;
+    height: 60px;
+    border-radius: 5px;
+    background-color: var(--panelSecondColor);
+    display: flex;
+    align-items: center;
+    cursor: pointer;
 }
