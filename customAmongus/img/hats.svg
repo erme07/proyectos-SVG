@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
-<svg width="60" height="60" viewBox="0 0 60 60" version="1.1" id="svg1071"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-   <defs>
-      
-   </defs>
+<svg width="60" height="60" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+   <!-- Created By Erik Medina (https://github.com/erme07) -->
    <symbol id="option_hat_astronauta">
       <path style="fill:#c6baad;" d="m 19.5,43.5 c -10.96,-8 -6,-24 5,-28 12,-3 30,6 19,22" />
       <path style="fill:#f7f4ec;" d="m 25.5,39.5 c -10,-3 -10,-14 -6,-20 4,-6 16,-6 23,-2 8,7 3,23 0,22"/>
