@@ -9,46 +9,138 @@
     <title>Personalizar Personaje Amongus</title>
 </head>
 <body>
-    <main>
-        <div class="menu">
-            <div><p>Color</p></div>
-            <div><p>Hat</p></div>
-            <div><p>Pet</p></div>
-            <div><p>Skin</p></div>
-            <div><p>Game</p></div>
-        </div>
-        <div class="preview">
-          <object data="img/character.svg" type="image/svg+xml" id="externalSVG"></object>
-        </div>
-        <div class="items">
-          <div class="colors">
-            <div class="color color--1" data-name="color-selector" data-value="colorRed"></div>
-            <div class="color color--2" data-name="color-selector" data-value="colorBlue"></div>
-            <div class="color color--3" data-name="color-selector" data-value="colorGreen"></div>
-            <div class="color color--4" data-name="color-selector" data-value="colorPink"></div>
-            <div class="color color--5" data-name="color-selector" data-value="colorOrange"></div>
-            <div class="color color--6" data-name="color-selector" data-value="colorYellow"></div>
-            <div class="color color--7" data-name="color-selector" data-value="colorBlack"></div>
-            <div class="color color--8" data-name="color-selector" data-value="colorWhite"></div>
-            <div class="color color--9" data-name="color-selector" data-value="colorPurple"></div>
-            <div class="color color--10" data-name="color-selector" data-value="colorBrown"></div>
-            <div class="color color--11" data-name="color-selector" data-value="colorCyan"></div>
-            <div class="color color--12" data-name="color-selector" data-value="colorLime"></div>
-          </div>
-          <div class="hats">
-            <div data-name="hat-selector" data-value="hat_default"></div>
-            <svg data-name="hat-selector" data-value="hat_astronauta">
-              <use href="img/hats.svg#option_hat_astronauta"/>
-            </svg>
-            <svg data-name="hat-selector" data-value="hat_bicho">
-              <use href="img/hats.svg#option_hat_bicho"/>
-            </svg>
-            <svg data-name="hat-selector" data-value="hat_jason">
-              <use  href="img/hats.svg#option_hat_jason"/>
-            </svg>
-          </div>
-        </div>
-    </main>
-    <script src="script.js"></script>
+  <main>
+    <div class="menu">
+        <div data-name="option" data-value="colors">Color</div>
+        <div data-name="option" data-value="hats">Hat</div>
+        <div data-name="option" data-value="pets">Pet</div>
+        <div data-name="option" data-value="skins">Skin</div>
+        <div><p>Game</p></div>
+    </div>
+    <div class="preview">
+      <object data="img/character.svg" type="image/svg+xml" id="externalSVG"></object>
+    </div>
+    <div class="items">
+      <div class="colors active">
+        <div class="color color--1" data-name="color-selector" data-value="colorRed"></div>
+        <div class="color color--2" data-name="color-selector" data-value="colorBlue"></div>
+        <div class="color color--3" data-name="color-selector" data-value="colorGreen"></div>
+        <div class="color color--4" data-name="color-selector" data-value="colorPink"></div>
+        <div class="color color--5" data-name="color-selector" data-value="colorOrange"></div>
+        <div class="color color--6" data-name="color-selector" data-value="colorYellow"></div>
+        <div class="color color--7" data-name="color-selector" data-value="colorBlack"></div>
+        <div class="color color--8" data-name="color-selector" data-value="colorWhite"></div>
+        <div class="color color--9" data-name="color-selector" data-value="colorPurple"></div>
+        <div class="color color--10" data-name="color-selector" data-value="colorBrown"></div>
+        <div class="color color--11" data-name="color-selector" data-value="colorCyan"></div>
+        <div class="color color--12" data-name="color-selector" data-value="colorLime"></div>
+      </div>
+      <div class="hats">
+        <div data-name="hat-selector" data-value="hat_default"></div>
+        <svg data-name="hat-selector" data-value="hat_astronauta">
+          <use href="img/hats.svg#option_hat_astronauta"/>
+        </svg>
+        <svg data-name="hat-selector" data-value="hat_bicho">
+          <use href="img/hats.svg#option_hat_bicho"/>
+        </svg>
+        <svg data-name="hat-selector" data-value="hat_jason">
+          <use  href="img/hats.svg#option_hat_jason"/>
+        </svg>
+        <svg data-name="hat-selector" data-value="hat_bat">
+          <use  href="img/hats.svg#option_hat_bat"/>
+        </svg>
+        <svg data-name="hat-selector" data-value="hat_chocolate">
+          <use  href="img/hats.svg#option_hat_chocolate"/>
+        </svg>
+        <svg data-name="hat-selector" data-value="hat_cornamenta">
+          <use  href="img/hats.svg#option_hat_cornamenta"/>
+        </svg>
+        <svg data-name="hat-selector" data-value="hat_corona">
+          <use  href="img/hats.svg#option_hat_corona"/>
+        </svg>
+        <svg data-name="hat-selector" data-value="hat_cuchillo">
+          <use  href="img/hats.svg#option_hat_cuchillo"/>
+        </svg>
+        <svg data-name="hat-selector" data-value="hat_calabaza">
+          <use  href="img/hats.svg#option_hat_calabaza"/>
+        </svg>
+        <svg data-name="hat-selector" data-value="hat_egg">
+          <use  href="img/hats.svg#option_hat_egg"/>
+        </svg>
+        <svg data-name="hat-selector" data-value="hat_devil">
+          <use  href="img/hats.svg#option_hat_devil"/>
+        </svg>
+        <svg data-name="hat-selector" data-value="hat_drPeste">
+          <use  href="img/hats.svg#option_hat_drPeste"/>
+        </svg>
+        <svg data-name="hat-selector" data-value="hat_vagabond">
+          <use  href="img/hats.svg#option_hat_vagabond"/>
+        </svg>
+        <svg data-name="hat-selector" data-value="hat_sopapa">
+          <use  href="img/hats.svg#option_hat_sopapa"/>
+        </svg>
+        <svg data-name="hat-selector" data-value="hat_rider">
+          <use  href="img/hats.svg#option_hat_rider"/>
+        </svg>
+        <svg data-name="hat-selector" data-value="hat_punk">
+          <use  href="img/hats.svg#option_hat_punk"/>
+        </svg>
+        <svg data-name="hat-selector" data-value="hat_medic">
+          <use  href="img/hats.svg#option_hat_medic"/>
+        </svg>
+        <svg data-name="hat-selector" data-value="hat_headache">
+          <use  href="img/hats.svg#option_hat_headache"/>
+        </svg>
+        <svg data-name="hat-selector" data-value="hat_ellieRose">
+          <use  href="img/hats.svg#option_hat_ellieRose"/>
+        </svg>
+        <svg data-name="hat-selector" data-value="hat_militar">
+          <use  href="img/hats.svg#option_hat_militar"/>
+        </svg>
+        <svg data-name="hat-selector" data-value="hat_policia">
+          <use  href="img/hats.svg#option_hat_policia"/>
+        </svg>
+        <svg data-name="hat-selector" data-value="hat_svensson">
+          <use  href="img/hats.svg#option_hat_svensson"/>
+        </svg>
+        <svg data-name="hat-selector" data-value="hat_proteccion">
+          <use  href="img/hats.svg#option_hat_proteccion"/>
+        </svg>
+        <div data-name="hat-selector" data-value="hat_default"></div>
+        <div data-name="hat-selector" data-value="hat_default"></div>
+        <div data-name="hat-selector" data-value="hat_default"></div>
+        <div data-name="hat-selector" data-value="hat_default"></div>
+        <div data-name="hat-selector" data-value="hat_default"></div>
+        <div data-name="hat-selector" data-value="hat_default"></div>
+        
+      </div>
+      <div class="pets">
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+      </div>
+      <div class="skins">
+        <div></div>
+        <svg data-name="skin-selector" data-value="hat_bicho">
+          <use href="img/skins.svg#option_skin_kid"/>
+        </svg>
+        <svg data-name="skin-selector" data-value="hat_bicho">
+          <use href="img/skins.svg#option_skin_sport"/>
+        </svg>
+        <svg data-name="skin-selector" data-value="hat_bicho">
+          <use href="img/skins.svg#option_skin_banana"/>
+        </svg>
+        <svg data-name="skin-selector" data-value="hat_bicho">
+          <use href="img/skins.svg#option_skin_momia"/>
+        </svg>
+        <div></div>
+        <div></div>
+      </div>
+    </div>
+  </main>
+  <script src="script.js"></script>
 </body>
 </html>
