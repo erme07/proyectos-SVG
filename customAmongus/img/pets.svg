@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
-<svg width="60" height="60" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="60" height="60" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+   <!-- Created By Erik Medina (https://github.com/erme07) -->
 
    <symbol id="option_pet_robot">
       <path style="fill:none;stroke:#0a0909;stroke-width:1.04002;stroke-linecap:round;stroke-linejoin:round" d="M 27.4,19.4 25.8,14.7" />
-      <ellipse style="fill:#0a0909"cx="25.8" cy="14.7" rx="1.98" ry="1.69" />
+      <ellipse style="fill:#0a0909" cx="25.8" cy="14.7" rx="1.98" ry="1.69" />
       <path style="fill:#b5ae94;stroke:#000000;stroke-width:1.66403;stroke-linecap:round;stroke-linejoin:round" d="M 40,25.7 C 31.3,28 22.7,30.4 21.1,24.9 20.3,20.2 29.8,18.6 38.4,19.4 40,21 40,23.3 40,25.7 Z" />
       <path style="fill:#565b60;stroke:#000000;stroke-width:1.04002;stroke-linecap:round;stroke-linejoin:round" d="m 30.5,28 c -0.7,-2.3 -1.5,-3.9 -0.7,-6.3 2.3,-1.5 5.4,-2.3 8.6,-2.3 1.6,0.8 1.6,3.1 1.6,6.3 z"/>
       <circle style="fill:#42cfde" cx="32.9" cy="23.3" r="1.04" />
