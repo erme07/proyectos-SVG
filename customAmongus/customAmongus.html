@@ -11,17 +11,17 @@
 <body>
   <main>
     <div class="menu">
-        <div data-name="option" data-value="colors">Color</div>
-        <div data-name="option" data-value="hats">Hat</div>
-        <div data-name="option" data-value="pets">Pet</div>
-        <div data-name="option" data-value="skins">Skin</div>
+        <div data-name="option" data-value="colors" title="Select color" class="menu_active">Color</div>
+        <div data-name="option" data-value="hats" title="Select hat">Hat</div>
+        <div data-name="option" data-value="pets" title="Select pet">Pet</div>
+        <div data-name="option" data-value="skins" title="Select skin">Skin</div>
         <div><p>Game</p></div>
     </div>
     <div class="preview">
       <object data="img/character.svg" type="image/svg+xml" id="externalSVG"></object>
     </div>
     <div class="items">
-      <div class="colors active">
+      <div class="colors active" >
         <div class="color color--1" data-name="color-selector" data-value="colorRed"></div>
         <div class="color color--2" data-name="color-selector" data-value="colorBlue"></div>
         <div class="color color--3" data-name="color-selector" data-value="colorGreen"></div>
@@ -35,7 +35,7 @@
         <div class="color color--11" data-name="color-selector" data-value="colorCyan"></div>
         <div class="color color--12" data-name="color-selector" data-value="colorLime"></div>
       </div>
-      <div class="hats">
+      <div class="hats" >
         <div data-name="hat-selector" data-value="hat_default"></div>
         <svg data-name="hat-selector" data-value="hat_astronauta">
           <use href="img/hats.svg#option_hat_astronauta"/>
@@ -114,30 +114,52 @@
         <div data-name="hat-selector" data-value="hat_default"></div>
         
       </div>
-      <div class="pets">
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
+      
+      <div class="pets" >
+        <div data-name="pet-selector" data-value="pet_default"></div>
+        <svg data-name="pet-selector" data-value="pet_doggy">
+          <use href="img/pets.svg#option_pet_doggy"/>
+        </svg>
+        <svg data-name="pet-selector" data-value="pet_ovni">
+          <use href="img/pets.svg#option_pet_ovni"/>
+        </svg>
+        <svg data-name="pet-selector" data-value="pet_robot">
+          <use href="img/pets.svg#option_pet_robot"/>
+        </svg>
       </div>
+
       <div class="skins">
-        <div></div>
-        <svg data-name="skin-selector" data-value="hat_bicho">
+        <div data-name="skin-selector" data-value="skin_default"></div>
+        <svg data-name="skin-selector" data-value="skin_kid">
           <use href="img/skins.svg#option_skin_kid"/>
         </svg>
-        <svg data-name="skin-selector" data-value="hat_bicho">
+        <svg data-name="skin-selector" data-value="skin_sport">
           <use href="img/skins.svg#option_skin_sport"/>
         </svg>
-        <svg data-name="skin-selector" data-value="hat_bicho">
+        <svg data-name="skin-selector" data-value="skin_sport2">
+          <use href="img/skins.svg#option_skin_sport2"/>
+        </svg>
+        <svg data-name="skin-selector" data-value="skin_banana">
           <use href="img/skins.svg#option_skin_banana"/>
         </svg>
-        <svg data-name="skin-selector" data-value="hat_bicho">
+        <svg data-name="skin-selector" data-value="skin_momia">
           <use href="img/skins.svg#option_skin_momia"/>
         </svg>
-        <div></div>
-        <div></div>
+        <svg data-name="skin-selector" data-value="skin_astronauta">
+          <use href="img/skins.svg#option_skin_astronauta"/>
+        </svg>
+        <svg data-name="skin-selector" data-value="skin_gift">
+          <use href="img/skins.svg#option_skin_gift"/>
+        </svg>
+        <svg data-name="skin-selector" data-value="skin_calabaza">
+          <use href="img/skins.svg#option_skin_calabaza"/>
+        </svg>
+        <svg data-name="skin-selector" data-value="skin_arbusto">
+          <use href="img/skins.svg#option_skin_arbusto"/>
+        </svg>
+        <svg data-name="skin-selector" data-value="skin_hotdog">
+          <use href="img/skins.svg#option_skin_hotdog"/>
+        </svg>
       </div>
     </div>
   </main>

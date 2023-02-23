@@ -6,6 +6,7 @@
 :root{
     --panelMainColor:#A0C0A4;
     --panelSecondColor:#748B78;
+    --menuSelected:#516553;
 
     --colorRed:#C51111;
     --colorBlue:#132ED1;
@@ -25,10 +26,12 @@
     src: url(../font/OPTIFormula-One.otf);
     font-display: swap;
 }
+
 body{
     height: 100vh;
     display: grid;
     place-content: center;
+    user-select: none;
 }
 main {
     height: 500px;
@@ -49,7 +52,10 @@ main {
 
 .menu { grid-area: menu; }
 .preview { grid-area: preview; }
-.items { grid-area: items; }
+.items { grid-area: items; overflow-y: overlay;}
+.items::-webkit-scrollbar{
+    width: 0;
+}
 
 .preview{
     display: flex;
@@ -61,8 +67,8 @@ main {
     border-radius: 5px;
 }
 
-.items{
-    background-color: unset;
+#externalSVG{
+    width:200px;
 }
 .menu{
     display: grid;
@@ -75,9 +81,13 @@ main {
     cursor: pointer;
     font-family: formula-one;
     color: white;
-    font-size: 20px;
-    letter-spacing: 5px;
-    text-align: center;
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.menu_active{
+    background-color: var(--menuSelected)!important;
 }
 
 .colors {
@@ -92,7 +102,6 @@ main {
       "color4 color5 color6"
       "color7 color8 color9"
       "color10 color11 color12";
-      display: none;
 }
 .colors div{
     width: 55px;
@@ -114,15 +123,16 @@ main {
 .color--11 { grid-area: color11; background-color: var(--colorCyan); }
 .color--12 { grid-area: color12; background-color: var(--colorLime); }
 
-.hats{
+.hats, .pets, .skins{
     display: grid; 
     grid-template-columns: 1fr 1fr 1fr 1fr; 
     grid-template-rows: 1fr 1fr 1fr 1fr 1fr; 
     gap: 10px;
     justify-items: center;
-    
 }
-.hats svg, .hats div{
+.hats svg, .hats div,
+.pets svg, .pets div,
+.skins svg, .skins div{
     width: 60px;
     height: 60px;
     border-radius: 5px;
@@ -130,4 +140,10 @@ main {
     display: flex;
     align-items: center;
     cursor: pointer;
+}
+.colors, .hats, .pets, .skins{
+    display: none;
+}
+.active{
+    display: grid;
 }
