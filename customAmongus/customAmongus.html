@@ -1,165 +1,104 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css/style.css">
-    
-    <title>Personalizar Personaje Amongus</title>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/repositorio.css">
+  
+  <title>Personalizar Personaje Amongus</title>
 </head>
 <body>
+  <svg class="repo-link" width="80" height="80" viewBox="0 0 250 250"
+        xmlns="http://www.w3.org/2000/svg"
+        xmlns:svg="http://www.w3.org/2000/svg">
+        <title>Repositorio en Github</title>
+        <a href="https://github.com/erme07/proyectos-SVG/tree/master/customAmongus">
+            <g class="icon">
+                <path class="main-color" d="M 0,0 250,250 V 0 Z"/>
+                <path class="second-color arm" d="M 128.3,109 C 113.8,99.7 119,89.6 119,89.6 c 3,-6.9 1.5,-11 1.5,-11 -1.3,-6.6 2.9,-2.3 2.9,-2.3 3.9,4.6 2.1,11 2.1,11 -2.6,10.3 5.1,14.6 8.9,15.9"/>
+                <path class="second-color" d="m 115,115 c -0.1,0.1 3.7,1.5 4.8,0.4 l 13.9,-13.8 c 3.2,-2.4 6.2,-3.2 8.5,-3 -8.4,-10.6 -14.7,-24.2 1.6,-40.6 4.7,-4.6 10.2,-6.8 15.9,-7 0.6,-1.6 3.5,-7.4 11.7,-10.9 0,0 4.7,2.4 7.4,16.1 4.3,2.4 8.4,5.6 12.1,9.2 3.6,3.6 6.8,7.8 9.2,12.2 13.7,2.6 16.2,7.3 16.2,7.3 -3.6,8.2 -9.4,11.1 -10.9,11.7 -0.3,5.8 -2.4,11.2 -7.1,15.9 -16.4,16.4 -30,10 -40.6,1.6 0.2,2.8 -1,6.8 -5,10.8 L 141,136.5 c -1.2,1.2 0.6,5.4 0.8,5.3 z"/>
+            </g>
+        </a>
+  </svg>
+
   <main>
     <div class="menu">
-        <div data-name="option" data-value="colors" title="Select color" class="menu_active">Color</div>
-        <div data-name="option" data-value="hats" title="Select hat">Hat</div>
-        <div data-name="option" data-value="pets" title="Select pet">Pet</div>
-        <div data-name="option" data-value="skins" title="Select skin">Skin</div>
-        <div><p>Game</p></div>
+        <div class="menu__option menu__option--active" data-name="menu" data-value="colors" title="Select color">Color</div>
+        <div class="menu__option" data-name="menu" data-value="hats" title="Select hat">Hat</div>
+        <div class="menu__option" data-name="menu" data-value="pets" title="Select pet">Pet</div>
+        <div class="menu__option" data-name="menu" data-value="skins" title="Select skin">Skin</div>
+        <div class="menu__option"><p>Game</p></div>
     </div>
+
     <div class="preview">
       <object data="img/character.svg" type="image/svg+xml" id="externalSVG"></object>
     </div>
-    <div class="items">
-      <div class="colors active" >
-        <div class="color color--1" data-name="color-selector" data-value="colorRed"></div>
-        <div class="color color--2" data-name="color-selector" data-value="colorBlue"></div>
-        <div class="color color--3" data-name="color-selector" data-value="colorGreen"></div>
-        <div class="color color--4" data-name="color-selector" data-value="colorPink"></div>
-        <div class="color color--5" data-name="color-selector" data-value="colorOrange"></div>
-        <div class="color color--6" data-name="color-selector" data-value="colorYellow"></div>
-        <div class="color color--7" data-name="color-selector" data-value="colorBlack"></div>
-        <div class="color color--8" data-name="color-selector" data-value="colorWhite"></div>
-        <div class="color color--9" data-name="color-selector" data-value="colorPurple"></div>
-        <div class="color color--10" data-name="color-selector" data-value="colorBrown"></div>
-        <div class="color color--11" data-name="color-selector" data-value="colorCyan"></div>
-        <div class="color color--12" data-name="color-selector" data-value="colorLime"></div>
-      </div>
-      <div class="hats" >
-        <div data-name="hat-selector" data-value="hat_default"></div>
-        <svg data-name="hat-selector" data-value="hat_astronauta">
-          <use href="img/hats.svg#option_hat_astronauta"/>
-        </svg>
-        <svg data-name="hat-selector" data-value="hat_bicho">
-          <use href="img/hats.svg#option_hat_bicho"/>
-        </svg>
-        <svg data-name="hat-selector" data-value="hat_jason">
-          <use  href="img/hats.svg#option_hat_jason"/>
-        </svg>
-        <svg data-name="hat-selector" data-value="hat_bat">
-          <use  href="img/hats.svg#option_hat_bat"/>
-        </svg>
-        <svg data-name="hat-selector" data-value="hat_chocolate">
-          <use  href="img/hats.svg#option_hat_chocolate"/>
-        </svg>
-        <svg data-name="hat-selector" data-value="hat_cornamenta">
-          <use  href="img/hats.svg#option_hat_cornamenta"/>
-        </svg>
-        <svg data-name="hat-selector" data-value="hat_corona">
-          <use  href="img/hats.svg#option_hat_corona"/>
-        </svg>
-        <svg data-name="hat-selector" data-value="hat_cuchillo">
-          <use  href="img/hats.svg#option_hat_cuchillo"/>
-        </svg>
-        <svg data-name="hat-selector" data-value="hat_calabaza">
-          <use  href="img/hats.svg#option_hat_calabaza"/>
-        </svg>
-        <svg data-name="hat-selector" data-value="hat_egg">
-          <use  href="img/hats.svg#option_hat_egg"/>
-        </svg>
-        <svg data-name="hat-selector" data-value="hat_devil">
-          <use  href="img/hats.svg#option_hat_devil"/>
-        </svg>
-        <svg data-name="hat-selector" data-value="hat_drPeste">
-          <use  href="img/hats.svg#option_hat_drPeste"/>
-        </svg>
-        <svg data-name="hat-selector" data-value="hat_vagabond">
-          <use  href="img/hats.svg#option_hat_vagabond"/>
-        </svg>
-        <svg data-name="hat-selector" data-value="hat_sopapa">
-          <use  href="img/hats.svg#option_hat_sopapa"/>
-        </svg>
-        <svg data-name="hat-selector" data-value="hat_rider">
-          <use  href="img/hats.svg#option_hat_rider"/>
-        </svg>
-        <svg data-name="hat-selector" data-value="hat_punk">
-          <use  href="img/hats.svg#option_hat_punk"/>
-        </svg>
-        <svg data-name="hat-selector" data-value="hat_medic">
-          <use  href="img/hats.svg#option_hat_medic"/>
-        </svg>
-        <svg data-name="hat-selector" data-value="hat_headache">
-          <use  href="img/hats.svg#option_hat_headache"/>
-        </svg>
-        <svg data-name="hat-selector" data-value="hat_ellieRose">
-          <use  href="img/hats.svg#option_hat_ellieRose"/>
-        </svg>
-        <svg data-name="hat-selector" data-value="hat_militar">
-          <use  href="img/hats.svg#option_hat_militar"/>
-        </svg>
-        <svg data-name="hat-selector" data-value="hat_policia">
-          <use  href="img/hats.svg#option_hat_policia"/>
-        </svg>
-        <svg data-name="hat-selector" data-value="hat_svensson">
-          <use  href="img/hats.svg#option_hat_svensson"/>
-        </svg>
-        <svg data-name="hat-selector" data-value="hat_proteccion">
-          <use  href="img/hats.svg#option_hat_proteccion"/>
-        </svg>
-        <div data-name="hat-selector" data-value="hat_default"></div>
-        <div data-name="hat-selector" data-value="hat_default"></div>
-        <div data-name="hat-selector" data-value="hat_default"></div>
-        <div data-name="hat-selector" data-value="hat_default"></div>
-        <div data-name="hat-selector" data-value="hat_default"></div>
-        <div data-name="hat-selector" data-value="hat_default"></div>
-        
-      </div>
-      
-      <div class="pets" >
-        <div data-name="pet-selector" data-value="pet_default"></div>
-        <svg data-name="pet-selector" data-value="pet_doggy">
-          <use href="img/pets.svg#option_pet_doggy"/>
-        </svg>
-        <svg data-name="pet-selector" data-value="pet_ovni">
-          <use href="img/pets.svg#option_pet_ovni"/>
-        </svg>
-        <svg data-name="pet-selector" data-value="pet_robot">
-          <use href="img/pets.svg#option_pet_robot"/>
-        </svg>
+
+    <div class="items items--background">
+
+      <div class="colors active" data-name="panel">
+        <div class="color color--1 selected" data-name="color" data-value="colorRed"></div>
+        <div class="color color--2" data-name="color" data-value="colorBlue"></div>
+        <div class="color color--3" data-name="color" data-value="colorGreen"></div>
+        <div class="color color--4" data-name="color" data-value="colorPink"></div>
+        <div class="color color--5" data-name="color" data-value="colorOrange"></div>
+        <div class="color color--6" data-name="color" data-value="colorYellow"></div>
+        <div class="color color--7" data-name="color" data-value="colorBlack"></div>
+        <div class="color color--8" data-name="color" data-value="colorWhite"></div>
+        <div class="color color--9" data-name="color" data-value="colorPurple"></div>
+        <div class="color color--10" data-name="color" data-value="colorBrown"></div>
+        <div class="color color--11" data-name="color" data-value="colorCyan"></div>
+        <div class="color color--12" data-name="color" data-value="colorLime"></div>
       </div>
 
-      <div class="skins">
-        <div data-name="skin-selector" data-value="skin_default"></div>
-        <svg data-name="skin-selector" data-value="skin_kid">
-          <use href="img/skins.svg#option_skin_kid"/>
-        </svg>
-        <svg data-name="skin-selector" data-value="skin_sport">
-          <use href="img/skins.svg#option_skin_sport"/>
-        </svg>
-        <svg data-name="skin-selector" data-value="skin_sport2">
-          <use href="img/skins.svg#option_skin_sport2"/>
-        </svg>
-        <svg data-name="skin-selector" data-value="skin_banana">
-          <use href="img/skins.svg#option_skin_banana"/>
-        </svg>
-        <svg data-name="skin-selector" data-value="skin_momia">
-          <use href="img/skins.svg#option_skin_momia"/>
-        </svg>
-        <svg data-name="skin-selector" data-value="skin_astronauta">
-          <use href="img/skins.svg#option_skin_astronauta"/>
-        </svg>
-        <svg data-name="skin-selector" data-value="skin_gift">
-          <use href="img/skins.svg#option_skin_gift"/>
-        </svg>
-        <svg data-name="skin-selector" data-value="skin_calabaza">
-          <use href="img/skins.svg#option_skin_calabaza"/>
-        </svg>
-        <svg data-name="skin-selector" data-value="skin_arbusto">
-          <use href="img/skins.svg#option_skin_arbusto"/>
-        </svg>
-        <svg data-name="skin-selector" data-value="skin_hotdog">
-          <use href="img/skins.svg#option_skin_hotdog"/>
-        </svg>
+      <div class="hats" data-name="panel">
+        <div class="selected" data-name="hat" data-value="default"></div>
+        <div><svg data-name="hat" data-value="hat_astronauta"><use href="img/hats.svg#option_hat_astronauta"/></svg></div>
+        <div><svg data-name="hat" data-value="hat_bicho"><use href="img/hats.svg#option_hat_bicho"/></svg></div>
+        <div><svg data-name="hat" data-value="hat_jason"><use href="img/hats.svg#option_hat_jason"/></svg></div>
+        <div><svg data-name="hat" data-value="hat_bat"><use href="img/hats.svg#option_hat_bat"/></svg></div>
+        <div><svg data-name="hat" data-value="hat_chocolate"><use href="img/hats.svg#option_hat_chocolate"/></svg></div>
+        <div><svg data-name="hat" data-value="hat_cornamenta"><use href="img/hats.svg#option_hat_cornamenta"/></svg></div>
+        <div><svg data-name="hat" data-value="hat_corona"><use href="img/hats.svg#option_hat_corona"/></svg></div>
+        <div><svg data-name="hat" data-value="hat_cuchillo"><use href="img/hats.svg#option_hat_cuchillo"/></svg></div>
+        <div><svg data-name="hat" data-value="hat_calabaza"><use href="img/hats.svg#option_hat_calabaza"/></svg></div>
+        <div><svg data-name="hat" data-value="hat_egg"><use href="img/hats.svg#option_hat_egg"/></svg></div>
+        <div><svg data-name="hat" data-value="hat_devil"><use href="img/hats.svg#option_hat_devil"/></svg></div>
+        <div><svg data-name="hat" data-value="hat_drPeste"><use href="img/hats.svg#option_hat_drPeste"/></svg></div>
+        <div><svg data-name="hat" data-value="hat_vagabond"><use href="img/hats.svg#option_hat_vagabond"/></svg></div>
+        <div><svg data-name="hat" data-value="hat_sopapa"><use href="img/hats.svg#option_hat_sopapa"/></svg></div>
+        <div><svg data-name="hat" data-value="hat_rider"><use href="img/hats.svg#option_hat_rider"/></svg></div>
+        <div><svg data-name="hat" data-value="hat_punk"><use href="img/hats.svg#option_hat_punk"/></svg></div>
+        <div><svg data-name="hat" data-value="hat_medic"><use href="img/hats.svg#option_hat_medic"/></svg></div>
+        <div><svg data-name="hat" data-value="hat_headache"><use href="img/hats.svg#option_hat_headache"/></svg></div>
+        <div><svg data-name="hat" data-value="hat_ellieRose"><use href="img/hats.svg#option_hat_ellieRose"/></svg></div>
+        <div><svg data-name="hat" data-value="hat_militar"><use href="img/hats.svg#option_hat_militar"/></svg></div>
+        <div><svg data-name="hat" data-value="hat_policia"><use href="img/hats.svg#option_hat_policia"/></svg></div>
+        <div><svg data-name="hat" data-value="hat_svensson"><use href="img/hats.svg#option_hat_svensson"/></svg></div>
+        <div><svg data-name="hat" data-value="hat_proteccion"><use href="img/hats.svg#option_hat_proteccion"/></svg></div>
+      </div>
+      
+      <div class="pets" data-name="panel">
+        <div class="selected" data-name="pet" data-value="default"></div>
+        <div><svg data-name="pet" data-value="pet_doggy"><use href="img/pets.svg#option_pet_doggy"/></svg></div>
+        <div><svg data-name="pet" data-value="pet_ovni"><use href="img/pets.svg#option_pet_ovni"/></svg></div>
+        <div><svg data-name="pet" data-value="pet_robot"><use href="img/pets.svg#option_pet_robot"/></svg></div>
+      </div>
+
+      <div class="skins" data-name="panel">
+        <div class="selected" data-name="skin" data-value="default"></div>
+        <div><svg data-name="skin" data-value="skin_kid"><use href="img/skins.svg#option_skin_kid"/></svg></div>
+        <div><svg data-name="skin" data-value="skin_sport"><use href="img/skins.svg#option_skin_sport"/></svg></div>
+        <div><svg data-name="skin" data-value="skin_sport2"><use href="img/skins.svg#option_skin_sport2"/></svg></div>
+        <div><svg data-name="skin" data-value="skin_banana"><use href="img/skins.svg#option_skin_banana"/></svg></div>
+        <div><svg data-name="skin" data-value="skin_momia"><use href="img/skins.svg#option_skin_momia"/></svg></div>
+        <div><svg data-name="skin" data-value="skin_astronauta"><use href="img/skins.svg#option_skin_astronauta"/></svg></div>
+        <div><svg data-name="skin" data-value="skin_gift"><use href="img/skins.svg#option_skin_gift"/></svg></div>
+        <div><svg data-name="skin" data-value="skin_calabaza"><use href="img/skins.svg#option_skin_calabaza"/></svg></div>
+        <div><svg data-name="skin" data-value="skin_arbusto"><use href="img/skins.svg#option_skin_arbusto"/></svg></div>
+        <div><svg data-name="skin" data-value="skin_hotdog"><use href="img/skins.svg#option_skin_hotdog"/></svg></div>
       </div>
     </div>
   </main>
