@@ -21,6 +21,9 @@
     --colorCyan:#38FEDB;
     --colorLime:#50EF39;
 }
+.main-color {fill: var(--panelMainColor);}
+.second-color {fill: var(--menuSelected);}
+
 @font-face {
     font-family: formula-one;
     src: url(../font/OPTIFormula-One.otf);
@@ -32,11 +35,14 @@ body{
     display: grid;
     place-content: center;
     user-select: none;
-    background: rgb(209,167,150);
-background: radial-gradient(circle, rgba(209,167,150,1) 10%, rgba(192,160,188,1) 80%);
-background: rgb(171,147,126);
-background: radial-gradient(circle, rgba(171,147,126,1) 10%, rgba(139,116,135,1) 90%);
+    background: rgb(171,147,126);
+    background: radial-gradient(circle, rgba(171,147,126,1) 10%, rgba(139,116,135,1) 90%);
 }
+
+#externalSVG{
+    width:200px;
+}
+
 main {
     height: 500px;
     width: 600px;
@@ -49,38 +55,38 @@ main {
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 50px 1fr;
     gap: 20px 15px;
-    grid-auto-flow: row;
     grid-template-areas:
       "menu menu"
       "preview items";
 }
 
-.menu { grid-area: menu; }
-.preview { grid-area: preview; }
-.items { grid-area: items; overflow-y: overlay;}
-.items::-webkit-scrollbar{
-    width: 0;
-}
-
 .preview{
+    grid-area: preview;
     display: flex;
     align-items: center;
     justify-content: center;
-}
-.preview, .items{
     background-color: var(--panelSecondColor);
+}
+.items{
+    grid-area: items;
+    overflow-y: overlay;
+}
+.items::-webkit-scrollbar {width: 0;}
+
+.preview, .items{
     border-radius: 5px;
 }
-
-#externalSVG{
-    width:200px;
+.items--background{
+    background-color: var(--panelSecondColor);
 }
+
 .menu{
+    grid-area: menu;
     display: grid;
     grid-template-columns: repeat(5, 1fr);
     gap: 5px;
 }
-.menu > div{
+.menu__option{
     border-radius: 5px;
     background-color: var(--panelSecondColor);
     cursor: pointer;
@@ -91,7 +97,7 @@ main {
     justify-content: center;
     align-items: center;
 }
-.menu_active{
+.menu__option--active{
     background-color: var(--menuSelected)!important;
 }
 
@@ -102,11 +108,6 @@ main {
     grid-template-rows: 1fr 1fr 1fr 1fr; 
     gap: 20px 0px;
     justify-items: center;
-    grid-template-areas: 
-      "color1 color2 color3"
-      "color4 color5 color6"
-      "color7 color8 color9"
-      "color10 color11 color12";
 }
 .colors div{
     width: 55px;
@@ -115,18 +116,18 @@ main {
     border-radius: 10px;
     cursor: pointer;
 }
-.color--1 { grid-area: color1; background-color: var(--colorRed); }
-.color--2 { grid-area: color2; background-color: var(--colorBlue); }
-.color--3 { grid-area: color3; background-color: var(--colorGreen); }
-.color--4 { grid-area: color4; background-color: var(--colorPink); }
-.color--5 { grid-area: color5; background-color: var(--colorOrange); }
-.color--6 { grid-area: color6; background-color: var(--colorYellow); }
-.color--7 { grid-area: color7; background-color: var(--colorBlack); }
-.color--8 { grid-area: color8; background-color: var(--colorWhite); }
-.color--9 { grid-area: color9; background-color: var(--colorPurple); }
-.color--10 { grid-area: color10; background-color: var(--colorBrown); }
-.color--11 { grid-area: color11; background-color: var(--colorCyan); }
-.color--12 { grid-area: color12; background-color: var(--colorLime); }
+.color--1 { background-color: var(--colorRed); }
+.color--2 { background-color: var(--colorBlue); }
+.color--3 { background-color: var(--colorGreen); }
+.color--4 { background-color: var(--colorPink); }
+.color--5 { background-color: var(--colorOrange); }
+.color--6 { background-color: var(--colorYellow); }
+.color--7 { background-color: var(--colorBlack); }
+.color--8 { background-color: var(--colorWhite); }
+.color--9 { background-color: var(--colorPurple); }
+.color--10 {  background-color: var(--colorBrown); }
+.color--11 {  background-color: var(--colorCyan); }
+.color--12 {  background-color: var(--colorLime); }
 
 .hats, .pets, .skins{
     display: grid; 
@@ -145,6 +146,7 @@ main {
     display: flex;
     align-items: center;
     cursor: pointer;
+    position: relative;
 }
 .colors, .hats, .pets, .skins{
     display: none;
@@ -152,10 +154,10 @@ main {
 .active{
     display: grid;
 }
-/* .color{
+.color{
     position: relative;
 }
-.color--6::after{
+.selected::after{
     content: "";
     position: absolute;
     top: 0;
@@ -163,4 +165,4 @@ main {
     height: 100%;
     background-image: url(../img/selected.png);
     background-position: center;
-} */
+}
