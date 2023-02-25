@@ -8,4 +8,4 @@ Este repositorio contiene pequeños proyectos con imagenes SVG. El propósito es
 - [Amongus Personalizable](https://erme07.github.io/proyectos-SVG/customAmongus/customAmongus.html)
 
 ### Preview
-![Preview de algunos dibujos dentro del repositorio](https://erme07.github.io/proyectos-SVG/perroCartoon/img/preview.jpg)
+![Preview de algunos dibujos dentro del repositorio](https://erme07.github.io/proyectos-SVG/preview.jpg)
