@@ -2,6 +2,8 @@
     position: absolute;
     top: 0;
     right: 0;
+    width: 80px;
+    height: 80px;
 }
 .arm{
     transform-origin: 130px 106px;
