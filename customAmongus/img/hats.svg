@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg width="60" height="60" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+   <!-- Created By Erik Medina (https://github.com/erme07) -->
+
+   <symbol id="option_hat_astronauta">
+      <path style="fill:#c6baad;" d="m 19.5,43.5 c -10.96,-8 -6,-24 5,-28 12,-3 30,6 19,22" />
+      <path style="fill:#f7f4ec;" d="m 25.5,39.5 c -10,-3 -10,-14 -6,-20 4,-6 16,-6 23,-2 8,7 3,23 0,22"/>
+      <path style="fill:none;stroke:#1b1910;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" d="m 19.5,43.5 c -10.96,-8 -6,-24 5,-28 12,-3 30,6 19,22"/>
+      <path style="fill:#37434f;stroke:#0b1218;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" d="m 45.5,32.5 c -1,2 -5,-1 -8,-1 -3,0 -6.5,2.7 -10,2 -6.9,-1.4 -7,-9 -5,-12 3,-4 8.1,-7 13,-6 9.2,2 14,11 10,17 z"/>
+      <path style="fill:#788faa;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" d="m 35.5,20.5 c -0.9,-0.2 -2.8,0.9 -4,0 -1.7,-1.4 -0.9,-2.3 1,-3 2.2,-0.8 6,0 8,2 1,1 1,3 -1,3 -2,0 -2.6,-1.7 -4,-2 z"/>
+      <path style="fill:#ad3418;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="m 19.5,46.5 -1,-4 c 8,-6 17,-8 26,-6 v 4 c -9,-1 -17,1 -25,6 z"/>
+      <path style="fill:#ffffff;fill-opacity:0.209;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="m 23.5,39.5 c 0,0 3,2 4,2 7,-1 12,-1 18,-1 v -4 c -6,-2 -15,0 -22,3 z"/>
+      <path style="fill:none;stroke:#180802;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="m 18.5,46.5 -1,-4 c 8,-6 19,-8 28,-6 l -1,4 c -9,-1 -17,0 -26,6 z"/>
+   </symbol>
+
+   <symbol id="option_hat_bicho">
+      <path style="fill:#186d52" d="m 29.6,19.7 c 7,0 9,6 8,12 0,3 2,3 3,4 4,2 4,10 -2,6 -2,-1 -3,-2 -5,0 -1,1 -4,2 -6,0 -2,-3 -3,-3 -6,0 -4,2 -7,-2 -3,-5 1,-1 3,-2 3,-5 1,-6 0,-12 8,-12 z"/>
+      <path style="fill:#3fbe3f" d="m 30.6,19.7 c -9,0 -5,13 -7,15 -1,1 -5,3 -4,5 4,-3 8,-3 11,2 3,1 3,-4 6,-3 2,0 4,3 5,2 2,0 1,-4 1,-4 -2,0 -3,-2 -4,-3 0,-3 0,-4 -1,-9 -2,-4 -4,-5 -7,-5 z"/>
+      <path style="fill:none;stroke:#021902;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" d="m 29.6,19.7 c 0,0 -3,-5 3,-5"/>
+      <circle style="fill:#031903" cx="32.6" cy="14.7" r="1.99" />
+      <path style="fill:none;stroke:#083008;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" d="m 29.6,19.7 c 7,0 9,6 8,12 0,3 2,3 3,4 4,2 4,10 -2,6 -2,-1 -3,-2 -5,0 -1,1 -4,2 -6,0 -2,-3 -3,-3 -6,0 -4,2 -7,-2 -3,-5 1,-1 3,-2 3,-5 1,-6 0,-12 8,-12 z"/>
+      <ellipse style="fill:#091815" cx="32.6" cy="27.7" rx="6.6" ry="6.44" />
+      <ellipse style="fill:#a6cbc5" cx="32.6" cy="27.7" rx="4.24" ry="4.13" />
+      <path style="fill:#d6ecec" d="m 30.6,23.7 c -2,1 -1,4 1,5 1,1 4,2 5,0 1,-4 -2,-6 -6,-5 z"/>
+      <circle style="fill:#421a34" cx="33.6" cy="27.7" r="1.58" />
+   </symbol>
+
+   <symbol id="option_hat_jason">
+      <path style="fill:#1d1e26;stroke:#101012;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" d="m 24.7,33.4 c -4,-0.3 -8,-1.1 -12.4,-4.3 -0.2,-1.6 -0.5,-3.4 1.4,-5 4,1.8 7,3.2 11,3.4"/>
+      <path style="fill:#2c2d36;stroke:#101012;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" d="M 29.7,19.6 18.7,18 c 2,-1.9 6,-3.4 8,-3.3 4,0.4 6,0.4 11,2"/>
+      <path style="fill:#b5aa9f" d="m 23.7,31 c 1,9.2 6,14 13,14.5 6,0.3 11,-3.9 11,-14.3 -1,-11.1 -6,-14.3 -12,-14.8 -12,3.7 -11,9.3 -12,14.6 z"/>
+      <path style="fill:#d3d0c6" d="m 29.7,19 c -5,6.7 -3,16.7 2,19.9 0,-1.6 2,-2.9 1,-6.3 1,-1.6 1,-1.1 3,-0.6 1,0.6 3,0.3 4,-1.6 0,1.4 0,2.7 -2,3 h -3 c 1,2.1 1,4.5 1,6.6 3,0.8 4,0.5 5,0 0,-1.9 0,-2.7 1,-6.1 0,-3.5 2,4 2,7.4 3,-2.4 4,-7.7 4,-14 -2,-6.9 -6,-9.1 -10,-10.4 -3,-0.8 -5,0 -8,2.1 z"/>
+      <path style="fill:#b5aa9f" d="m 29.7,25.9 c -1,-0.2 -1,-0.2 0,-1 1,-0.6 2,-0.8 5,0 1,0.2 1,-0.8 2,-1.1 0,1.3 0,2.4 -2,2.9 -1,-0.5 -4,-1 -5,-0.8 z"/>
+      <path style="fill:#b5aa9f" d="m 38.7,27 c -1,-0.5 0,-1.6 0,-2.9 1,1.8 2,1.8 2,2.1 z" />
+      <ellipse style="fill:#b5aa9f" cx="35.7" cy="21.7" rx="0.75" ry="0.609"/>
+      <ellipse style="fill:#b5aa9f" cx="38.7" cy="21.7" rx="0.702" ry="0.609" />
+      <path style="fill:#f72842;stroke:#5a1c21;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round" d="m 29.7,29.1 c -2,-0.3 -2,-2.1 -1,-2.9 3,-0.8 6,0.3 7,1.1 0,0.7 0,2.6 -6,1.8 z"/>
+      <path style="fill:#f72842;stroke:#5a1c21;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round" d="m 38.7,27.5 c 0,1.1 4,2.1 5,1.3 1,-0.2 1,-2.3 0,-2.6 -2,-0.8 -5,0.5 -5,1.3 z"/>
+      <path style="fill:none;stroke:#20201b;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" d="m 23.7,31 c 0,9.2 6,14 13,14.5 6,0.3 12,-3.9 11,-14.3 0,-10.8 -7,-15.1 -12,-14.8 -13,1 -11,10.1 -12,14.6 z"/>
+      <path style="fill:#2c2d36;" d="m 21.7,31.8 c -2,-0.3 -4,-0.8 -6,-1.9 l 1,-3.2 c 1,0.6 2,1.1 5,1.9"/>
+      <ellipse style="fill:#212018" cx="35.7" cy="37.6" rx="1.17" ry="0.935"/>
+      <ellipse style="fill:#212018" cx="34.7" cy="34.4" rx="1.17" ry="0.935" />
+      <ellipse style="fill:#212018" cx="39.7" cy="34.4" rx="1.17" ry="0.935" />
+      <ellipse style="fill:#212018" cx="40.7" cy="37.6" rx="1.17" ry="0.935" />
+      <path style="fill:#eeebe7" d="m 36.7,31.8 c 0,-1.1 0,-2.2 0,-3.5 0,-0.3 1,-0.3 1,0 0,1.1 0,1.6 0,1.9 1,0.2 2,0.2 2,0.5 -1,0.5 -2,2.1 -3,1.1 z"/>
+      <path style="fill:#eeebe7" d="m 37.7,18.2 c 3,0 6,3.5 6,4 0,0.3 -2,0 -4,-1 -2,-1.6 -2,-2.4 -2,-3 z" />
+   </symbol>
+
+   <symbol id="option_hat_bat">
+      <path style="fill:#544e47" d="M 23.1,42.5 C 21.4,40.7 17.9,39.9 12.7,40.7 14.4,36.4 12.7,33.8 7.69,32 11.8,27.7 10.1,23.4 7.79,18.1 L 25.7,29.4 c -4.3,2.6 -6.1,6.1 -2.6,13.1 z" />
+      <path style="fill:#6b594a" d="m 16.2,39.9 c -0.9,-2.6 0.8,-6.1 -4.4,-8.7 1.8,-3.5 0.9,-7 0,-10.5 L 8.39,19.9 c 2.61,6.9 1.71,9.5 -0.3,12.1 4.61,1.8 4.61,5.3 5.51,9.6 z" />
+      <path style="fill:#2e2821" d="m 10.1,23.4 9.5,6 c -2.6,4.4 -0.8,7.9 0,11.3 l 3.5,0.9 c -1.7,-4.3 -2.6,-8.7 1.8,-13 L 8.29,19 Z" />
+      <path style="fill:none;stroke:#000000;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round" d="M 8.39,32 C 11,29.4 18.8,29.4 25.7,28.6" />
+      <path style="fill:none;stroke:#000000;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round" d="m 13.6,40.7 c 1.7,-4.3 6,-8.7 12.1,-12.1" />
+      <path style="fill:none;stroke:#000000;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round" d="M 23.1,42.5 C 21.4,40.7 17.9,39.9 12.7,40.7 14.4,36.4 12.7,33.8 7.69,32 11.8,27.7 10.1,23.4 7.79,18.1 13.6,20.7 19.6,24.2 25.7,29.4 21.4,32 19.6,35.5 23.1,42.5 Z" />
+      <path style="fill:#544e47" d="M 38.8,41.6 C 40.5,37.3 41.4,33.8 37,29.4 40.5,26 44.9,22.5 51.8,19 c -2.6,4.4 -2.6,8.7 0.9,13 -3.5,0.9 -6.1,3.5 -4.4,8.7 -3.4,-1.7 -6.9,-0.8 -9.5,0.9 z" />
+      <path style="fill:#2e2821" d="m 42.2,40.7 c 0.9,-2.6 0.9,-6 0,-11.3 2.7,-2.6 5.3,-4.3 7.9,-5.2 V 19 c -5.2,3.5 -9.6,7 -13.1,10.4 2.6,2.6 3.5,6.1 2.6,12.2 z" />
+      <path style="fill:#685b4a" d="m 45.7,39.9 c -0.8,-4.4 -0.8,-7.9 2.6,-8.7 -3.4,-3.5 -0.8,-5.2 1.8,-7.8 0,3.4 0.8,6.9 2.6,8.6 -3.5,0.9 -5.2,3.5 -4.4,8.7 z" />
+      <path style="fill:none;stroke:#000000;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round" d="m 37,29.4 c 5.2,2.6 8.7,7 11.3,11.3" />
+      <path style="fill:none;stroke:#000000;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round" d="m 37,29.4 c 5.2,0 10.5,0.9 15.7,2.6" />
+      <path style="fill:none;stroke:#000000;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round" d="M 38.8,41.6 C 40.5,37.3 41.4,33.8 37,29.4 40.5,26 44.9,22.5 51.8,19 c -2.6,4.4 -2.6,8.7 0.9,13 -3.5,0.9 -6.1,3.5 -4.4,8.7 -3.4,-1.7 -6.9,-0.8 -9.5,0.9 z" />
+   </symbol>
+
+   <symbol id="option_hat_calabaza">
+      <path style="fill:#426131" d="m 20.6,26.3 -3.8,-9 6.5,-3 9.1,7 z" />
+      <path style="fill:none;stroke:#084929;stroke-width:2.1;stroke-linecap:round;stroke-linejoin:round" d="m 23.7,23.3 -3.9,-7" />
+      <path style="fill:none;stroke:#084929;stroke-width:2.1;stroke-linecap:round;stroke-linejoin:round" d="m 27.4,22.3 -4.6,-6" />
+      <path style="fill:none;stroke:#000000;stroke-width:2.65;stroke-linecap:round;stroke-linejoin:round" d="m 20.6,26.3 -3.8,-9 6.5,-3 9.1,7 z" />
+      <path style="fill:#ff6200" d="m 17.7,45.3 c -6.3,-4 -9.62,-16 -0.1,-20 l 7.9,-2 c 7.9,-7 13.9,-4 15.9,-3 10,4 8,15 5,20 l -5,-5 -2,4 -6,-5 -4.2,8 -6.6,-5 z" />
+      <path style="fill:none;stroke:#bd381a;stroke-width:2.1;stroke-linecap:round;stroke-linejoin:round" d="m 20.3,41.3 c -7,-5 -3.8,-12 -2.1,-15" />
+      <path style="fill:none;stroke:#bd381a;stroke-width:2.1;stroke-linecap:round;stroke-linejoin:round" d="m 25.5,39.3 c -4.5,-4 -3.6,-11 -3.3,-15" />
+      <path style="fill:none;stroke:#bd381a;stroke-width:2.1;stroke-linecap:round;stroke-linejoin:round" d="m 32.4,37.3 c -6.1,-4 -5.8,-11 -6.3,-14" />
+      <path style="fill:none;stroke:#bd381a;stroke-width:2.1;stroke-linecap:round;stroke-linejoin:round" d="m 37.4,37.3 c 1,-7 -2,-12 -8.2,-16" />
+      <path style="fill:none;stroke:#bd381a;stroke-width:2.1;stroke-linecap:round;stroke-linejoin:round" d="m 42.4,36.3 c 2,-4 4,-10 -5,-17" />
+      <path style="fill:#ff8c00" d="m 20,25.3 c -3.8,5 -2.4,7 -1.4,9 0.1,-3 0.4,-5 3,-9 z" />
+      <path style="fill:#ff8c00" d="m 26.8,23.3 c 3,2 5.6,4 8.6,7 -1,-4 -4,-6 -7,-8 z" />
+      <path style="fill:#ff8c00" d="m 43.4,29.3 c -4,-4 -6,-8 -13.1,-8 l 5.1,-2 c 5,3 7,7 8,10 z" />
+      <path style="fill:#ff8c00" d="m 42.4,22.3 c 3,3 5,7 5,10 0,-2 1,-5 0,-7 -1,0 -3,-2 -5,-3 z" />
+      <path style="fill:#ff8c00" d="m 13.8,36.3 c -0.2,-3 0.5,-6 2.1,-9 -1.5,2 -2.2,3 -2.5,5 -0.5,2 -0.3,3 0.4,4 z" />
+      <path style="fill:none;stroke:#000000;stroke-width:2.65;stroke-linecap:round;stroke-linejoin:round" d="m 17.7,45.3 c -6.3,-4 -9.62,-16 -0.1,-20 l 7.9,-2 c 7.9,-7 13.9,-4 15.9,-3 10,4 9,15 6,19 l -7,-4 -2,4 -5,-5 -4.2,8 -6.6,-5 z" />
+      <path style="fill:#310c08" d="m 22.6,34.3 5.8,-1 c -1,-2 -3.9,-5 -5,-5 -1.3,1 -1.3,4 -0.8,6 z" />
+      <path style="fill:#310c08" d="m 37.4,31.3 4,-1 c 0,-3 -2,-5 -3,-5 -1,0 -2,4 -1,6 z" />
+      <path style="fill:#5a2418" d="m 27.1,33.3 -4.6,1 c -0.2,-1 -0.5,-3 0.3,-5 1.9,1 3.8,3 4.3,4 z" />
+      <path style="fill:#5a2418" d="m 37.4,31.3 4,-1 c -1,-2 -2,-3 -4,-4 -1,2 0,4 0,5 z" />
+   </symbol>
+
+   <symbol id="option_hat_chocolate">
+      <path style="fill:#392e23" d="m 29.7,39.8 c -4,0 -8,4 -12,-2 0,-1 0,-2 3,-3 -1,-2 -1,-5 4,-6 -2,-2 0,-4 2,-6 1,-1 0,-2 0,-4 2,2 3,4 6,5 2,1 2,2 1,4 4,0 3,5 3,5 3,-2 8,5 4,6 z" />
+      <path style="fill:#524436" d="m 29.7,22.8 c 3,1 6,2 5,6 3,1 3,2 2,4 2,-1 3,0 4,1 1,2 0,3 -4,4 -4,0 -8,0 -12,0 -3,-1 -1,-1 0,-2 3,0 6,0 8,-2 -2,0 -5,0 -7,0 -1,-1 -2,-3 1,-3 3,0 6,0 7,-2 v -1 c -1,1 -3,1 -4,1 -2,-2 -1,-2 -1,-2 1,-1 1,-2 1,-4 z" />
+      <path style="fill:#1e1410" d="m 25.7,39.8 c -3,0 -7,0 -4,-4 2,1 5,0 7,0 2,-1 2,-1 1,-1 -3,0 -7,-1 -7,-2 0,-1 1,-2 2,-3 3,1 8,1 10,-1 -2,0 -8,1 -8,-1 1,-1 2,-4 2,-5 -4,1 -6,3 -5,6 -7,3 -3,4 -4,7 -1,0 -3,2 1,5 z" />
+      <path style="fill:none;stroke:#000000;stroke-width:2.65;stroke-linecap:round;stroke-linejoin:round" d="m 29.7,39.8 c -4,2 -11,3 -12,-2 0,-1 1,-3 3,-3 -2,-2 -1,-5 4,-6 -1,-1 -2,-4 2,-6 1,-1 0,-2 0,-4 2,2 4,4 6,5 1,1 3,3 1,4 5,1 3,5 3,5 3,-2 8,5 4,6 z" />
+   </symbol>
+
+   <symbol id="option_hat_cornamenta">
+      <path style="fill:#261d1a;stroke:#000000;stroke-width:2.65;stroke-linecap:round;stroke-linejoin:round" d="m 28.6,42 c -1,-9 -1,-19 -6,-26 -2,-2 -5,-2 -5,1 2,3 4,5 4,8 -2,-3 -5,-5 -7,-7 -3,-2 -6.05,1 -4,4 4,2 7,5 10,9 -3,-2 -5,-2 -9,-3 -3.05,0 -4.05,5 0,5 6,1 8,3 10,4 3,2 4,3 4,6 z" />
+      <path style="fill:#261d1a;stroke:#000000;stroke-width:2.65;stroke-linecap:round;stroke-linejoin:round" d="m 32.6,42 4,-11 c -5,-5 -6,-13 -2,-14 3,-1 4,3 5,10 0,-5 1,-9 4,-11 4,-2 5,1 5,2 -1,5 -4,8 -6,12 l 5,-2 c 5,0 4,4 1,5 -2,1 -5,2 -8,2 l -4,8 z" />
+      <path style="fill:#734508;stroke:#000000;stroke-width:2.65;stroke-linecap:round;stroke-linejoin:round" d="m 21.6,45 c -6,-2 -6,-8 -3,-9 5,-2 7,2 7,7 z" />
+      <path style="fill:#411a0b" d="m 22.6,43 c -3,-2 -3,-4 -2,-4 0,-1 2,1 3,3 z" />
+      <path style="fill:#734104;stroke:#000000;stroke-width:2.65;stroke-linecap:round;stroke-linejoin:round" d="m 36.6,43 c 3,-5 6,-9 8,-6 3,3 0,7 -5,7 z" />
+      <path style="fill:#411a0b" d="m 39.6,43 c 0,-2 1,-4 3,-4 1,0 1,2 -2,4 0,0 0,0 -1,0 0,0 0,0 0,0 z" />
+   </symbol>
+
+   <symbol id="option_hat_corona">
+      <path style="fill:#bd591b;stroke:#000000;stroke-width:2.65;stroke-linecap:round;stroke-linejoin:round" d="m 24.1,39.1 c -1.2,-5 -3.7,-9 -6.8,-12 3.2,0 5.8,0 8.8,1 1,-7 1,-10 2,-11 2,2 5,6 7,8 2,-2 3,-3 8,-7 -2,5 -2,11 -1,16 -7,-2 -15,0 -18,5 z" />
+      <path style="fill:#fcdf52" d="m 23,27.1 c 2.1,2 4.1,4 5.1,6 5,-2 10,-1 13,0 l 1,-14 -7,6 -7,-7 -2,10 z" />
+      <path style="fill:#ffffff" d="m 33.1,24.1 c 0,2 0,3 0,3 -1,1 -1,2 0,2 0,1 0,2 2,2 0,2 1,1 2,1 0,-1 0,-1 -1,-1 1,-1 2,-1 2,-2 0,0 0,-1 -1,-1 1,0 1,-1 0,-2 0,-1 0,-1 0,-2 l -2,1 z" />
+      <path style="fill:none;stroke:#000000;stroke-width:2.65;stroke-linecap:round;stroke-linejoin:round" d="m 24.1,39.1 c -1.2,-5 -3.7,-9 -6.8,-12 3.2,0 5.8,0 8.8,1 1,-7 1,-10 2,-11 2,2 5,6 7,8 2,-2 3,-3 8,-7 -2,5 -2,11 -1,16 -7,-2 -15,0 -18,5 z" />
+   </symbol>
+
+   <symbol id="option_hat_cuchillo">
+      <path style="fill:#9fafaf" d="M 36.3,24.9 C 27.9,31 18.8,37.1 9.65,41.7 c 4.55,2.3 7.55,1.5 9.85,0.7 3.1,-6.1 9.2,-9.1 13,-3.8 3,-1.5 5.3,-3 8.4,-8.4 z" />
+      <path style="fill:#ffffff" d="m 27.1,31.8 7.7,-4.6 -3.1,10.7 c -1.5,-1.6 -3.8,-2.3 -5.3,-2.3 z" />
+      <path style="fill:#ffffff" d="m 20.3,41.7 1.5,-6.1 3.1,-1.6 -0.8,3.1 c -3.1,2.3 -2.3,3.1 -3.8,4.6 z" />
+      <path style="fill:none;stroke:#000000;stroke-width:2.02221;stroke-linecap:round;stroke-linejoin:round" d="M 36.3,24.9 C 27.9,31 18.8,37.1 9.65,41.7 c 4.55,2.3 7.55,1.5 9.85,0.7 3.1,-8.4 10.7,-7.6 13,-3.8 3,-1.5 5.3,-3 8.4,-8.4 z" />
+      <path style="fill:#574436;stroke:#000000;stroke-width:2.02221;stroke-linecap:round;stroke-linejoin:round" d="m 40.9,21.8 c -6.1,-3.8 -6.1,0.8 -5.4,2.3 0.8,2.3 4.6,6.1 6.1,6.9 2.3,1.5 6.2,0.8 3.9,-3.1 -0.8,-1.5 -3.9,-5.3 -4.6,-6.1 z" />
+      <path style="fill:#422d25" d="m 38.6,27.2 c 7.6,3 3.8,0 5.3,-0.8 0.8,1.5 1.6,3.1 0.8,3.8 -2.3,0.8 -3.8,-0.7 -6.1,-3 z" />
+      <path style="fill:#422d25;stroke:#000000;stroke-width:2.02221;stroke-linecap:round;stroke-linejoin:round" d="m 39.4,23.4 c 0,2.3 1.5,3.8 3.8,3.8 3,-3.1 9.9,-6.9 6.1,-9.9 -3.1,-3.1 -6.1,2.2 -9.9,6.1 z" />
+      <path style="fill:#574436" d="M 40.1,23.4 C 43.2,22.6 45.5,18 49.3,18 47,16.5 45.5,18 43.9,20.3 Z" />
+   </symbol>
+
+   <symbol id="option_hat_devil">
+      <path style="fill:#4d0000" d="M 12.2,35 C 16.4,26 19.5,21.8 24,14.9 21.9,24.6 20.4,34 24.3,40 c 0,3 -1.3,3 -3.7,3 -3.1,-1 -7,-3 -7.8,-4 -0.6,-1 -0.6,-4 -0.6,-4 z" />
+      <path style="fill:#bb1400" d="m 19.7,43 c 0.8,-1 2.5,-2 2.5,-3 -0.3,0 -3.2,-3 -4,-4 1.5,-3 2.6,-15 2.6,-15 l -8.3,14 0.4,5 z" />
+      <path style="fill:#e7aea5" d="m 14.9,40 c 3.9,0 2.4,-2 0,-4 1,-1 2.4,-5 3.5,-10.3 -0.9,-2 -5.6,5.3 -6.3,10.3 -0.7,3 0.8,4 2.8,4 z" />
+      <path style="fill:none;stroke:#000000;stroke-width:2.65;stroke-linecap:round;stroke-linejoin:round" d="M 12.2,35 C 16.4,26 19.5,21.8 24,14.9 22.4,24.6 21.6,34 24.3,40 c 0,3 -1.3,3 -3.7,3 -3.1,-1 -7,-3 -7.8,-4 -0.6,-1 -0.6,-4 -0.6,-4 z" />
+      <path style="fill:#4a0000" d="m 37.9,40 c 2,-4 1,-15.9 1,-24.2 3,8.1 10,22.2 10,23.2 0,1 -2,5 -4,6 0,-1 -4,-4 -7,-5 z" />
+      <path style="fill:#bb1400" d="m 38.9,30 c 2,5 4,8 3,9 2,2 3,2 5,-3 l -7,-17.6 c -2,-1.5 -1,5.9 -1,11.6 z" />
+      <path style="fill:#deaaa5" d="m 39.9,23.1 c 2,4.9 4,10.9 4,11.9 1,1 2,2 3,0 l -7,-14.8 z" />
+      <path style="fill:none;stroke:#000000;stroke-width:2.65;stroke-linecap:round;stroke-linejoin:round" d="m 37.9,40 c 2,-4 1,-15.9 1,-24.2 3,8.1 10,22.2 10,23.2 0,1 -2,5 -4,6 0,-1 -4,-4 -7,-5 z" />
+   </symbol>
+
+   <symbol id="option_hat_drPeste">
+      <path style="fill:#1e1e29;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="m 16.5,27 c -0.8,-0.7 -2.6,-3.8 -4.1,-6.1 2.8,-5.5 7.2,-6.2 11.8,-6.4 0.7,3.3 0.7,7.9 2.3,8.7 z" />
+      <path style="fill:#3e3c4d" d="m 15.3,17.8 c 0.7,3.1 2.1,6.2 3.8,7.7 2.9,-0.8 5.1,-1.5 7.2,-2.3 -0.6,-1.6 -1.4,-4.7 -2.1,-8.5 -2.2,0.1 -4.4,-0.1 -8.9,3.1 z" />
+      <path style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="m 16.5,27 c -0.8,-0.7 -2.6,-3.8 -4.1,-6.1 2.8,-5.5 7.2,-6.2 11.8,-6.4 0.7,3.3 0.7,7.9 2.3,8.7 z" />
+      <path style="fill:#211c29;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M 16.3,30.9 C 10,34 10.3,27 14.3,27 c 3.4,-0.7 7.7,-2.3 11.4,-4.6 2,-1.5 4.3,-1.5 5.3,-0.8 1,0.8 0.8,3.1 -0.8,3.9 -2.5,0 -10.2,1.5 -13.9,5.4 z" />
+      <path style="fill:#3e3c4d" d="M 49.3,44 C 49.4,29.4 35.5,28.6 23,31.7 c -2.2,3.1 -3.2,9.3 1.2,13.1 2.1,0.8 6.8,1.6 8.2,0.8 7,-1.6 12.3,-3.1 16.9,-1.6 z" />
+      <path style="fill:#1e1e29" d="m 21,37.9 c 0.6,3.1 1.2,6.1 3.7,6.9 2.9,1.6 5.9,1.6 8.8,1.6 C 39.6,44 45,43.3 49.4,44 L 49.3,41 C 46.6,40.2 43.5,39.4 40.6,39.4 30,41 33.5,40.2 30.4,40.2 25.9,40.2 23.5,39.4 21,37.9 Z" />
+      <path style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" d="m 21.4,37.9 c 3.5,2.3 6.9,2.3 10.3,2.3 3.2,0 6.3,-0.8 9.5,-0.8 1.9,0 5,0.8 7.9,1.6" />
+      <path style="fill:#7b798c" d="m 39,34 c 0.6,-0.8 1.2,-0.8 1.2,-1.5 2.1,0 5.1,2.3 5.1,3.8 C 41.7,34 39.2,34 39,34 Z" />
+      <ellipse style="fill:#211c29" cx="24.5" cy="37.1" rx="0.796" ry="0.688" />
+      <ellipse style="fill:#211c29" cx="28.2" cy="37.9" rx="0.796" ry="0.688" />
+      <ellipse style="fill:#211c29" cx="32.4" cy="37.9" rx="0.796" ry="0.688" />
+      <ellipse style="fill:#211c29" cx="36.8" cy="37.1" rx="0.796" ry="0.688" />
+      <ellipse style="fill:#211c29" cx="41.2" cy="37.1" rx="0.796" ry="0.688" />
+      <ellipse style="fill:#211c29" cx="45.6" cy="37.9" rx="0.796" ry="0.688" />
+      <path style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M 49.3,44 C 49.4,29.4 35.5,28.6 23,31.7 c -2.2,3.1 -3.2,9.3 1.2,13.1 2.1,0.8 6.8,1.6 8.2,0.8 7,-1.6 12.3,-3.1 16.9,-1.6 z" />
+      <circle style="fill:#393029;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" cx="24.9" cy="30.9" r="3.49" />
+      <path style="fill:#aa6258" d="m 26.3,34.8 -3.7,-6.2 1.9,-0.8 3.4,5.4 z" />
+      <circle style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" cx="24.9" cy="30.9" r="3.49" />
+      <ellipse style="fill:#3a3029;stroke:#000000;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round" cx="33.7" cy="30.1" rx="3.22" ry="3.34" />
+      <path style="fill:#aa6258" d="m 31,27.8 1.4,-0.8 4.4,4.7 -1.5,1.5 z" />
+      <ellipse style="fill:none;stroke:#000000;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round" cx="33.7" cy="30.1" rx="3.22" ry="3.34" />
+   </symbol>
+
+   <symbol id="option_hat_egg">
+      <path style="fill:#d0c1a5" d="m 31.6,34.1 c 3.4,0 4.6,1.1 11.5,0 2.3,0 3.5,-4.7 0,-7 -5.8,-4.6 -21.9,-5.8 -27.7,4.6 0,1.2 -1.2,2.4 0,3.5 3.4,0 5.8,0 5.8,0 0,3.5 1.1,4.6 3.4,5.8 4.7,-1.2 5.8,-3.5 7,-6.9 z" />
+      <path style="fill:#fff3de" d="m 16.5,31.7 c 2.3,1.2 4.7,0 7,-1.1 0,3.5 1.1,5.8 2.3,5.8 1.1,0 2.3,-1.2 3.5,-4.7 3.4,0 8,1.2 12.7,-1.1 1.1,0 2.3,-1.2 1.1,-3.5 -11.5,-4.6 -20.8,-4.6 -26.6,4.6 z" />
+      <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" d="m 31.6,34.1 c 3.4,0 4.6,1.1 11.5,0 2.3,0 3.5,-4.7 0,-7 -5.8,-4.6 -21.9,-5.8 -27.7,4.6 0,1.2 -1.2,2.4 0,3.5 3.4,0 5.8,0 5.8,0 0,3.5 1.1,4.6 3.4,5.8 4.7,-1.2 5.8,-3.5 7,-6.9 z" />
+      <path style="fill:#ff6200;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" d="m 20,28.3 c -1.2,-3.5 4.6,-10.4 13.9,-8.1 2.3,1.1 2.3,3.4 2.3,4.6 -4.6,4.6 -15,4.6 -16.2,3.5 z" />
+      <path style="fill:#ffffff" d="m 24.6,23.6 c 1.2,0 3.5,-1.1 3.5,-1.1 0,0 2.3,-1.2 0,-1.2 -2.3,0 -3.5,2.3 -3.5,2.3 z" />
+      <path style="fill:#ef3400" d="m 22.3,27.1 c 4.6,-1.1 8.1,-1.1 11.6,-3.5 -1.2,2.4 -3.5,3.5 -4.6,3.5 -2.4,0 -4.7,1.2 -7,0 z" />
+   </symbol>
+
+   <symbol id="option_hat_ellieRose">
+      <path style="fill:#991842;stroke:#000000;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round" d="M 23.8,30.7 C 20.1,34 19.9,40.7 21.7,44.9 20,44 19,43.2 17.7,41.5 l -0.9,5 c -1,-3.3 -1.7,-5.8 -1.8,-8.3 l -1.5,4.2 c -2.3,-5.9 -1.9,-10.9 2.2,-14.2 -0.4,-10 11.5,-12.6 19,-8.4 6.6,2.5 10.8,2.5 12.5,0 0.8,1.7 -1.7,3.4 -3.4,5 1.7,0 4.2,-0.8 5.9,-1.6 -3.4,5.8 -15,11.6 -25.9,7.5 z" />
+      <path style="fill:#de2e2e" d="M 19.2,20.7 C 15.4,29 23.4,29 34.7,26.5 33,28.2 33,28.2 32.2,28.2 35.5,29 41.3,29 48,24 c -1.7,0 -2.5,0.8 -3.3,0.8 1.6,-0.8 1.6,-2.5 2.5,-4.1 -3.4,0.8 -6.7,1.6 -11.7,0 -6.6,-3.6 -12.3,-4.5 -16.3,0 z" />
+      <path style="fill:#de2e2e" d="m 14.2,30.7 c 5.2,-2.5 4.8,0.8 4.1,4.1 L 17.4,34 c -0.2,3.3 -0.7,5 -1.3,6.7 L 15,38.2 13.4,42.4 C 12,39 10.9,34.8 14.2,30.7 Z" />
+      <path style="fill:#ef8b8b" d="m 24.3,21.5 -4.4,0.8 c 0.9,-1.6 1.5,-4.1 7.3,-4.1 4.1,0.8 9.1,2.5 8.3,5 0,0.8 -6.3,-3.4 -7.9,-1.7 2.7,0 3.7,0.8 4.6,1.7 -1,0 -1.9,0 -2.4,0.8 1,0.8 1.5,0.8 1,2.5 -1.2,0 -1.4,0 -1.2,-1.7 -0.8,0 -1.5,0 -2.4,0 C 26.9,24 26.1,24 25.7,24 c 0,0 0.4,-0.8 1.2,-0.8 -2.8,0 -5.9,0 -2.6,-1.7 z" />
+      <path style="fill:none;stroke:#000000;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round" d="M 23.8,30.7 C 20.1,34 19.9,40.7 21.7,44.9 20,44 19,43.2 17.7,41.5 l -0.9,5 c -1,-3.3 -1.7,-5.8 -1.8,-8.3 l -1.5,4.2 c -2.3,-5.9 -1.9,-10.9 2.2,-14.2 -0.4,-10 11.5,-12.6 19,-8.4 6.6,2.5 10.8,2.5 12.5,0 0.8,1.7 -1.7,3.4 -3.4,5 1.7,0 4.2,-0.8 5.9,-1.6 -3.4,5.8 -15,11.6 -25.9,7.5 z" />
+   </symbol>
+
+   <symbol id="option_hat_headache">
+      <path style="fill:#543129;stroke:#000000;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round" d="M 27.3,30.5 16.1,41.7 c -1.7,0 -2.6,-1.8 -2.6,-2.6 L 24.7,27.9 Z" />
+      <path style="fill:#c2d7e1" d="m 23.8,27.9 c 3.5,2.6 4.3,4.3 3.5,6.9 6,-6 14.6,-0.9 14.6,2.6 3.4,-4.3 5.1,-8.6 5.1,-12.9 -6,0 -7.7,-0.9 -9.4,-3.4 -0.9,-3.5 -5.2,-2.6 -6,-2.6 z" />
+      <path style="fill:#ffffff" d="m 46.1,25.4 -6.8,2.5 v 3.5 L 47,28.8 Z" />
+      <path style="fill:#3c4652" d="m 32.4,18.5 c 3.5,4.3 6.9,6 9.5,6.9 -0.9,4.2 -2.6,6 -3.5,7.7 -3.4,-1.7 -7.7,-0.9 -11.1,1.7 0.8,-3.4 -1.7,-5.2 -3.5,-6.9 z" />
+      <path style="fill:none;stroke:#000000;stroke-width:1.15;stroke-linecap:round;stroke-linejoin:round" d="m 31.6,18.5 c 2.5,3.4 7.7,6 10.3,6.9 -0.9,3.4 -0.9,5.1 -4.3,7.7" />
+      <path style="fill:#5a738f" d="m 32.4,19.3 c 1.7,2.6 5.2,4.3 7.7,5.2 0.9,0 -2.5,-3.4 -3.4,-5.2 -3.4,-1.7 -4.3,-0.8 -4.3,0 z" />
+      <path style="fill:none;stroke:#000000;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round" d="m 23.8,27.9 c 3.5,2.6 3.5,4.3 3.5,6.9 6,-6 13.7,-0.9 14.6,2.6 3.4,-4.3 5.1,-8.6 5.1,-12.9 -6,0 -7.7,-0.9 -9.4,-3.4 -0.9,-3.5 -5.2,-2.6 -6,-2.6 z" />
+      <path style="fill:#5a738f" d="m 28.1,24.5 3.5,-3.4 c 1.7,1.7 3.4,2.5 5.1,3.4 -0.8,0 -1.7,0 -3.4,-0.9 l 0.8,2.6 -1.7,-0.8 v 2.5 l -0.8,-3.4 -0.9,0.9 v -1.8 c -0.9,0.9 -1.7,0.9 -2.6,0.9 z" />
+   </symbol>
+
+   <symbol id="option_hat_medic">
+      <path style="fill:#29418c" d="m 14.4,39.8 c 8,-6 19.7,-5 31.2,-4 -1,-2 -3,-4 -4,-4 -8.6,-1 -16,-2 -24.6,2 -1.9,2 -2.2,4 -2.6,6 z" />
+      <path style="fill:#3969a5" d="m 20.3,36.8 2.1,-5 c 5.9,-1 11.2,-1 19.2,0 1,1 2,2 3,4 -7.9,-1 -16.3,-1 -24.3,1 z"/>
+      <path style="fill:none;stroke:#000000;stroke-width:2.65;stroke-linecap:round;stroke-linejoin:round" d="m 14.4,39.8 c 8,-6 19.7,-5 31.2,-4 -1,-2 -3,-4 -4,-4 -8.6,-1 -16,-2 -24.6,2 -1.9,2 -2.2,4 -2.6,6 z"/>
+      <ellipse style="fill:#a4b1bd" cx="36.7" cy="26.8" rx="6.6" ry="6.44" />
+      <path style="fill:#f0eef4" d="m 32.2,22.8 3.7,5 -1.3,4 h 4 l -1.1,-4 4.1,3 1,-2 -5,-2 -0.6,-5 h -1.1 l 1.1,5 -1.9,-5 z"/>
+      <ellipse style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" cx="36.7" cy="26.8" rx="6.6" ry="6.44" />
+      <ellipse style="fill:#a4b1bd;stroke:#5a697b;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round" cx="37" cy="26.8" rx="1.13" ry="1.15" />
+   </symbol>
+
+   <symbol id="option_hat_punk">
+      <path style="fill:#84083e" d="m 19.4,44.2 c 0.8,0 1.6,0.8 1.6,-0.8 0,0 0,-0.8 0.8,-1.6 0,-0.8 0.8,-0.8 0.8,-1.6 0.8,0 0.8,-0.8 2.4,-0.8 0,-0.8 0.8,0 2.4,-0.8 0.8,0 0.8,0 1.7,0 0,0 1.5,-0.8 1.5,0 0.8,0.8 1.6,0 2.4,0.8 0.8,0 0.8,-0.8 1.7,-0.8 0.7,0.8 1.5,0.8 2.3,0.8 h 2.4 C 40.3,40.2 41,38.6 41,37 v -3.2 c 0,-0.8 0,-1.6 0,-2.4 0,0 0,-0.8 0,-1.6 0,-0.8 0.8,-1.6 0.8,-2.4 0,-0.8 0.8,-0.8 0.8,-1.6 0,-0.8 0.9,-0.8 0.9,-1.6 0,-0.8 0,-2.4 0.7,-3.2 0,-0.8 0,-1.6 0,-2.4 0,-0.8 -0.7,-0.8 -0.7,-1.6 -0.9,-1.6 -3.2,0 -4.1,-0.9 -1.5,0 -0.8,-1.5 -2.4,-0.7 -0.8,0 -1.6,0 -2.3,0 -0.9,0 -0.9,0.7 -2.5,0.7 -0.8,-0.7 0,1.7 -2.4,1.7 -0.7,0 -1.6,0.8 -1.6,0.8 -1.6,0 -1.6,1.6 -2.4,2.4 -0.8,0 -1.6,0.8 -1.6,1.6 -0.8,0.8 -2.4,1.6 -2.4,2.4 -0.8,0.8 -0.8,1.6 -1.6,2.4 0,0 -0.8,1.6 -0.8,1.6 -0.8,0.8 -1.6,0.8 -0.8,2.4 -0.8,0.8 -0.8,0.8 -1.6,2.4 0.8,0.8 -0.8,0.8 -0.8,1.6 0,1.6 0,3.2 0,4.8 0,0.8 0,1.6 0,3.2 -0.8,-1.6 0,0.8 0.8,1.6 0.8,0 1.6,0 2.4,0 v 0 z"/>
+      <path style="fill:#e71d1d" d="M 33,39.4 30.6,17 37,15.4 l 2.4,0.7 4.8,0.9 v 3.2 L 41,29.8 v 9.6 z" />
+      <path style="fill:#bb1036" d="M 28.2,38.6 25,29.8 v 0.8 l -0.8,-3.2 -0.8,3.2 -1.6,-5.6 1.6,-1.6 1.6,4.8 -0.8,-6.4 7.2,-5.7 1.6,23.3 z" />
+      <path style="fill:#f29294" d="m 34.7,38.6 -0.9,-3.2 1.6,0.8 v -4 l 0.8,3.2 0.8,-5.6 v 6.4 l 1.6,-0.8 -1.6,4 z" />
+      <path style="fill:none;stroke:#000000;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round" d="m 19.4,44.2 c 0.8,0 0.8,0 1.6,-0.8 0,0 0,-0.8 0.8,-1.6 0,-0.8 0.8,-0.8 0.8,-1.6 0.8,0 0.8,-0.8 2.4,-0.8 0,-0.8 0.8,0 2.4,-0.8 0.8,0 0.8,0 1.7,0 0,0 1.5,-0.8 1.5,0 0.8,0.8 1.6,0 2.4,0.8 0.8,0 0.8,-0.8 1.7,-0.8 0.7,0.8 1.5,0.8 2.3,0.8 h 2.4 C 40.3,40.2 41,38.6 41,37 v -3.2 c 0,-0.8 0,-1.6 0,-2.4 0,0 0,-0.8 0,-1.6 0,-0.8 0.8,-1.6 0.8,-2.4 0,-0.8 0.8,-0.8 0.8,-1.6 0,-0.8 0.9,-0.8 0.9,-1.6 0,-0.8 0,-2.4 0.7,-3.2 0,-0.8 0,-1.6 0,-2.4 0,-0.8 -0.7,-0.8 -0.7,-1.6 -0.9,-1.6 -3.2,0 -4.1,-0.9 -1.5,0 -0.8,-1.5 -2.4,-0.7 -0.8,0 -1.6,0 -2.3,0 -0.9,0 -0.9,0.7 -2.5,0.7 -0.8,-0.7 0,1.7 -2.4,1.7 -0.7,0 -1.6,0.8 -1.6,0.8 -1.6,0 -1.6,1.6 -2.4,2.4 -0.8,0 -1.6,0.8 -1.6,1.6 -0.8,0.8 -2.4,1.6 -2.4,2.4 -0.8,0.8 -0.8,1.6 -1.6,2.4 0,0 -0.8,1.6 -0.8,1.6 -0.8,0.8 -1.6,0.8 -0.8,2.4 -0.8,0.8 -0.8,0.8 -1.6,2.4 0.8,0.8 -0.8,0.8 -0.8,1.6 0,1.6 0,3.2 0,4.8 0,0.8 0,1.6 0,3.2 -0.8,-1.6 0,0.8 0.8,1.6 0.8,0 0.8,0 2.4,0 v 0 z" />
+   </symbol>
+
+   <symbol id="option_hat_rider">
+      <path style="fill:none;stroke:#000000;stroke-width:2.65;stroke-linecap:round;stroke-linejoin:round" d="m 14.5,41.5 c 7,-5 8,-8 8,-10 2,-4 4,-6 8,-6 7,-1 13,-3 18,-6" />
+      <path style="fill:none;stroke:#000000;stroke-width:2.65;stroke-linecap:round;stroke-linejoin:round" d="m 23.5,31.5 c 9,0 10,0 6,10" />
+      <path style="fill:none;stroke:#000000;stroke-width:2.65;stroke-linecap:round;stroke-linejoin:round" d="m 27.5,26.5 c -6,-5 -6,-4 -9,2" />
+      <path style="fill:#b7c3de;stroke:#000000;stroke-width:2.65;stroke-linecap:round;stroke-linejoin:round" d="m 30.5,25.5 c 2,3 5,3 7,2 1,-1 3,-4 1,-7 -1,-1 -4,-3 -7,-1 -3,1 -3,4 -1,6 z" />
+      <path style="fill:#ffffff" d="m 33.5,19.5 c -1,2 0,3 1,4 1,1 2,1 3,2 0,-1 1,-2 0,-4 -1,-2 -2,-2 -4,-2 z" />
+   </symbol>
+
+   <symbol id="option_hat_sopapa">
+      <path style="fill:#dbb2a2;stroke:#000000;stroke-width:2.12;stroke-linecap:round;stroke-linejoin:round" d="M 27.4,34.5 28,13.8 c 0.2,-1.6 3.9,-1.5 4.2,0.1 l 0.5,20.6 z" />
+      <path style="fill:#9c2e2e" d="m 20.4,43.5 c 6.5,4 13.1,3 19.5,0 0.2,-3 -1.1,-3 -2.1,-3 0,-3 -1.4,-4 -3.2,-4 1.3,-5 -3.7,-2 -4.5,-2 -1.1,0 -6.4,-3 -4.3,2 -1.8,0 -3.1,2 -2.9,4 -1.6,0 -2.9,1 -2.5,3 z" />
+      <path style="fill:none;stroke:#430920;stroke-width:1.325;stroke-linecap:round;stroke-linejoin:round" d="m 22.7,40.5 c 5.5,2 10.6,2 15.3,0" />
+      <path style="fill:#430920;" d="m 25.8,36.5 c 2.2,1 7.2,1 8.8,0 l -0.3,-3 -4.2,1 -4.5,-1 z" />
+      <path style="fill:#430920;fill-opacity:0.593" d="m 24.8,45.5 c -0.6,-2 0.2,-3 1.6,-4 0.2,-2 0.8,-3 3.4,-4 v -3 l -4.2,-1 0.2,3 c -2.3,0 -2.9,2 -3.1,4 -1.9,0 -2,1 -2.4,2 z" />
+      <path style="fill:none;stroke:#000000;stroke-width:2.12;stroke-linecap:round;stroke-linejoin:round" d="m 20.4,43.5 c 6.5,4 17.9,2 19.5,0 0.2,-3 -1.1,-3 -2.1,-3 0,-3 -1.4,-3 -3.2,-4 1.3,-5 -0.8,-3 -4.5,-3 -3.7,0 -6.4,-2 -4.3,3 -1.8,0 -3.1,2 -2.9,4 -1.6,0 -2.9,1 -2.5,3 z" />
+      <path style="fill:#be4946" d="m 33.5,39.5 c 0.3,0 0.3,-1 0,-2 -0.2,0 -1.6,0 -1.8,1 -0.3,0 0,0 0.5,0 -0.3,0 -0.5,1 -0.3,1 0.3,0 0.8,0 1.1,0 0,0 0.3,1 0.5,0 z" />
+      <path style="fill:#be4946" d="m 35.9,43.5 c -0.3,0 -1.8,0 -0.5,-1 0.2,0 0.5,0 1,0 0.6,0 0.3,1 -0.5,1 0,0 0.3,0 0,0 z" />
+   </symbol>
+
+   <symbol id="option_hat_vagabond">
+      <path style="fill:#3c355a" d="m 21.4,26.7 c -1.6,3 -2.4,14 4.5,15 0.6,1 0.8,2 4,3 7,3 8,4 9,4 2,-3 6,-6 9,-7 3,-3 2,-6 2,-8 z" />
+      <path style="fill:#5f4d76" d="m 31,37.7 c 1.9,1 1.9,2 5.9,4 0,0 0,1 -1,0 0,1 1,2 2,2 2,-3 3,-3 5,-4 l -1,-1 c 1,0 2,0 4,-1 v 1 c 1,0 2,-1 2,-3 z" />
+      <path style="fill:#000000" d="m 27.2,41.7 c 2.7,0 4,0 5.7,0 -1,-2 -4.1,-1 -7.8,-2 z" />
+      <path style="fill:none;stroke:#000000;stroke-width:2.65;stroke-linecap:round;stroke-linejoin:round" d="m 20.4,25.7 c -1.1,3 -1.1,14 5.5,16 0.6,1 0.8,2 4,3 7,3 8,4 9,4 2,-3 6,-6 9,-7 3,-3 2,-6 2,-8 z" />
+      <path style="fill:#deedf4" d="m 13.3,34.7 h 10 l 3.7,3 h 9.9 l 3,-4 4,3 7,-2 -1,-7 -5,-2 -19,1 -2.1,4 -10.8,-1 c -0.1,1 -1.1,3 0.3,5 z" />
+      <path style="fill:#354449" d="m 23,35.7 0.8,-5 -10.6,-1 v 5 z" />
+      <path style="fill:none;stroke:#000000;stroke-width:2.12;stroke-linecap:round;stroke-linejoin:round" d="m 30.2,31.7 h 6.7" />
+      <path style="fill:none;stroke:#000000;stroke-width:2.12;stroke-linecap:round;stroke-linejoin:round" d="m 42.9,30.7 h 5" />
+      <path style="fill:#a2bcc8" d="m 27.8,37.7 -0.6,-6 c 0.6,-3 3.5,-4 5.7,-5 h -6.7 l -2.7,4 0.3,5 z" />
+      <path style="fill:none;stroke:#000000;stroke-width:2.65;stroke-linecap:round;stroke-linejoin:round" d="m 23.8,35.7 0.3,-5" />
+      <path style="fill:none;stroke:#000000;stroke-width:2.65;stroke-linecap:round;stroke-linejoin:round" d="m 13.3,34.7 h 10 l 3.7,3 h 9.9 l 3,-4 4,3 7,-2 -1,-7 -3,-3 -21,2 -2.1,4 -10.8,-1 c -0.1,1 -1.1,3 0.3,5 z" />
+      <path style="fill:#31284c" d="m 18.2,25.7 c 12.2,4 21.7,1 31.7,-1 1,-1 1,-4 -3,-4 -9,-16.11 -30.4,-9.8 -31.8,0 -5.28,1 -8.88,7 -3.5,12 5.7,0 8,-3 6.6,-7 z" />
+      <path style="fill:#4f3f7e" d="m 22.2,12.4 c -2.9,5.2 -7.7,12.3 6.9,12.3 6.8,0 13.8,-1 20.8,-3 l -3,-2 c -5,-5 -11,-10.54 -24.7,-7.3 z" />
+      <ellipse style="fill:#4f3f7e" cx="12.8" cy="24.7" rx="2.68" ry="2.91" />
+      <ellipse style="fill:#846db5" cx="13.4" cy="23.7" rx="0.75" ry="0.798" />
+      <path style="fill:#846db5" d="m 29.9,15.8 c -2.7,-0.8 -2.1,-1.3 0.5,-1.6 1.1,-0.7 2.5,-0.9 4.5,-0.4 5,1.2 3,2.3 4,3.3 1,-0.2 1,-0.5 2,0 0,0.3 0,0.8 0,1.1 l -2,1 c -2,-0.2 -1,-1 -1,-1.6 -1,-0.7 -2,-1 -4,-0.7 -1,-0.3 -1,-0.8 -1,-1.1 z" />
+      <path style="fill:none;stroke:#000000;stroke-width:2.65;stroke-linecap:round;stroke-linejoin:round" d="m 18.2,25.7 c 12.2,4 21.7,1 31.7,-1 1,-1 1,-4 -3,-4 -9,-16.11 -30.4,-9.8 -31.8,0 -5.28,1 -8.88,7 -3.5,12 5.7,0 8,-3 6.6,-7 z" />
+   </symbol>
+
+   <symbol id="option_hat_svensson">
+      <path style="fill:#314b99" d="M 17,29.5 12.7,23.4 C 14.4,18.2 17,13 29.2,13.8 l 5.2,9.6 z" />
+      <path style="fill:#1b2d65" d="m 16.2,29.5 -3.5,-6.1 c 0,-3.4 1.7,-5.2 3.5,-6.9 2.6,2.6 4.3,5.2 5.2,9.6 -1.8,0 -3.5,1.7 -5.2,3.4 z" />
+      <path style="fill:none;stroke:#000000;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round" d="m 17,29.5 c -1.7,-1.7 -4.3,-5.2 -4.3,-6.1 0,-5.2 8.7,-12.2 16.5,-9.6 0.9,1 4.4,7 5.2,9.6 z" />
+      <path style="fill:#182c63;stroke:#000000;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round" d="m 15.3,38.2 c -1.8,-1.7 -3.5,-6.9 8.7,-13 4.3,-2.6 14.8,-3.5 15.6,0 0.9,2.6 -2.6,5.2 -10.4,8.7 -2.6,1.7 -11.3,6.1 -13.9,4.3 z" />
+      <path style="fill:#ecbe63" d="m 17,46.1 c 0.9,-1.8 1.8,-4.4 2.6,-5.3 -0.8,3.5 0,4.4 0.9,7 0.9,-3.5 0.9,-5.2 2.6,-8.7 0,2.6 0.9,3.5 1.8,4.4 0,-2.7 0,-6.1 1.7,-8.7 1.7,3.4 7,5.2 16.5,3.4 -1.7,-0.8 -3.5,-1.7 -5.2,-2.6 3.5,0 7.8,0.9 11.3,3.5 -2.6,-4.3 -3.5,-9.6 -11.3,-9.6 l 5.2,-1.7 c -5.2,-1.7 -9.5,-3.5 -17.4,0.9 -0.8,0 -1.7,-1.8 -2.6,-2.6 -0.9,1.7 -1.7,2.6 -1.7,4.3 -5.2,1.7 -5.2,4.4 -6.1,7.8 l 3.5,-2.6 c -4.4,5.2 -2.6,7.9 -1.8,10.5 z" />
+      <path style="fill:#b57d39" d="m 22.2,30.4 -1.7,2.6 1.7,0.9 -1.7,3.5 2.6,0.8 -1.7,8.7 C 19.6,45.2 18.8,43.5 19.6,40.8 L 17,46.1 C 17,42.6 14.4,40 18.8,35.6 l -3.5,2.6 c 0.9,-3.4 3.5,-6.9 6.9,-7.8 z" />
+      <path style="fill:#fff5e1" d="m 33.6,26.9 v 1.8 c -0.9,0.8 -2.7,0.8 -3.5,0.8 l 1.7,0.9 c -1.7,0.9 -2.6,0.9 -3.5,0.9 0.9,0.8 1.8,0.8 2.6,0.8 -0.8,0.9 -1.7,0.9 -2.6,0.9 1.8,0.9 3.5,0.9 5.3,0.9 -0.9,0.9 -0.9,0.9 -1.8,0.9 0.9,0.8 1.8,0.8 2.6,0.8 0.9,1.8 -0.8,1.8 -0.8,1.8 l 4.3,0.8 c 0.9,-0.8 0,-2.6 0.9,-3.4 1.7,0 2.6,-0.9 3.4,-1.8 -0.8,0 -2.6,0 -3.4,0 0.8,0 1.7,-0.9 1.7,-0.9 -0.9,0 -2.6,0 -3.5,-0.8 h 1.8 c -0.9,-0.9 -2.6,-0.9 -3.5,-1.8 -0.9,-0.8 0,-1.7 0,-1.7 z" />
+      <path style="fill:none;stroke:#000000;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round" d="m 17,46.1 c 0.9,-1.8 1.8,-4.4 2.6,-5.3 0,2.7 0,3.5 1.8,6.1 0,-3.4 0.8,-5.2 1.7,-8.7 0.9,2.6 0.9,4.4 1.8,5.3 0,-2.7 0,-6.1 1.7,-8.7 1.7,3.4 7.8,4.3 16.5,3.4 -1.7,-0.8 -3.5,-1.7 -5.2,-2.6 3.5,0 7.8,0.9 11.3,3.5 -2.6,-4.3 -3.5,-9.6 -11.3,-9.6 l 5.2,-1.7 c -5.2,-0.9 -12.2,-1.7 -17.4,0.9 -0.8,0 -1.7,-0.9 -1.7,-2.6 -1.8,1.7 -1.8,3.4 -2.6,4.3 -4.4,2.6 -5.2,4.4 -6.1,7.8 l 3.5,-2.6 c -4.4,5.2 -2.6,7.9 -1.8,10.5 z" />
+   </symbol>
+
+   <symbol id="option_hat_proteccion">
+      <path style="fill:#9f651b" d="m 26.7,35.4 c -5,1 -9.4,3 -12.2,5 -1.9,1 -3.3,0 -2.6,-2 l 2.8,-4 c -2,-5 3.4,-9 6.2,-11 -0.3,-3 5.3,-4 11.3,-3 1,0 2,1 2,1 5,2 8,6 9,10 l 6,1 v 4 l -13,2 z" />
+      <path style="fill:#f4d02c" d="m 30.2,33.4 c -3.5,1 -10.1,2 -11.3,1 -0.5,-1 -2.2,-6 2.5,-11 7.8,2 8.8,6 8.8,10 z" />
+      <path style="fill:#f4d02c" d="m 22.7,21.4 c 5.3,2 9.5,5 9.5,12 l 6,-1 c -1,-4 -1,-8 -6,-12 -5,-1 -7.9,0 -9.5,1 z" />
+      <path style="fill:#f4d02c" d="m 40.2,32.4 c -1,-4 -2,-5 -3,-8 3,2 5,4 6,8 z" />
+      <path style="fill:#f4d02c" d="m 32.2,34.4 5,1 12,-2 c -1,0 -3,-1 -4,-2 -4,1 -8,1 -13,3 z" />
+      <path style="fill:none;stroke:#000000;stroke-width:2.1;stroke-linecap:round;stroke-linejoin:round" d="m 27,35.4 17.2,-4" />
+      <path style="fill:#f4d0ff" d="m 28.2,21.4 c 0,0 4,0 4,0 0,0 2,2 2,2 0,0 -3,-1 -3,-1 0,0 -3,-1 -3,-1 z" />
+      <path style="fill:#f4d0ff" d="m 19.8,26.4 c -0.6,0 0.6,-1 1.9,-2 1.8,-1 2.1,1 1.8,1 -0.5,0 -0.8,0 -1.3,0 -0.8,-1 -1.3,1 -2.4,1 z" />
+      <path style="fill:none;stroke:#000000;stroke-width:2.1;stroke-linecap:round;stroke-linejoin:round" d="m 26.7,35.4 c -5,1 -9.4,3 -12.2,5 -1.9,1 -3.4,0 -2.7,-3 l 2.5,-3 c -1.1,-5 3.8,-9 6.6,-11 0,-4 5.3,-4 11.3,-3 1,0 2,1 2,1 5,2 8,6 9,10 l 6,1 v 4 l -13,2 z" />
+   </symbol>
+
+   <symbol id="option_hat_policia">
+      <path style="fill:#3165cb" d="M 17,42.4 11.8,37 c 4.3,0 5.2,-3.7 5.6,-7.3 2.5,0 5.1,-0.9 7.9,-5.1 1.7,-2.8 5.5,-5.3 9,-6.5 6.2,-1.6 12.7,2.6 7.8,10.4 l -0.2,4.8 c 4.7,0.9 7.4,3.7 5.7,6.4 -1.6,1.8 -15.8,0 -22.3,-1.8 -3.6,0.9 -6.8,2.7 -8.3,4.5 z" />
+      <path style="fill:#000000;fill-opacity:0.419" d="m 18.9,29.7 c 0.7,2.8 0.6,4.5 -0.4,6.4 2.2,-2.8 4.9,-2.8 7.5,-3.6 -0.2,2.7 -0.4,3.6 -0.7,5.4 -3.1,0.9 -6,2.7 -8.4,4.5 l -5,-4.5 c 3.3,-1.8 5.2,-4.6 7,-8.2 z" />
+      <path style="fill:#fccb2b;stroke:#000000;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round" d="m 34,28.6 c 0,7.5 6,5.6 5,-0.1 -1,0.2 -1.9,-0.3 -2.6,-1.4 -0.2,1 -0.6,1.6 -2.4,1.5 z" />
+      <path style="fill:#ffffff" d="m 36.6,30.6 c 0,0 0.3,1 0.5,1 0.3,-1 0.7,-1 0.3,-1.9 -1,0 -0.8,0 -0.8,0.9 z" />
+      <path style="fill:#ffffff" d="m 36.2,28.8 c 0.2,0 0.7,0.9 0.9,0 0,-0.1 -0.2,-0.3 -0.5,-0.5 -0.4,0.3 -0.4,0.5 -0.4,0.5 z" />
+      <path style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="m 25.3,37.9 c 4.6,-1.8 10.3,-2.7 17.6,-4.6" />
+      <path style="fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round" d="M 17,42.4 11.8,37 c 4.3,0 5.2,-3.7 5.6,-7.3 2.5,0 5.1,-0.9 7.9,-5.1 1.7,-2.8 5.5,-5.3 9,-6.5 6.2,-1.6 12.7,2.6 7.8,10.4 l -0.2,4.8 c 4.7,0.9 7.4,3.7 5.7,6.4 -1.6,1.8 -15.8,0 -22.3,-1.8 -3.6,0.9 -6.8,2.7 -8.3,4.5 z" />
+   </symbol>
+
+   <symbol id="option_hat_militar">
+      <path style="fill:#375b2b" d="M 17,42.4 11.8,37 c 4.3,0 5.2,-3.7 5.6,-7.3 2.5,0 5.1,-0.9 7.9,-5.1 1.7,-2.8 5.5,-5.3 9,-6.5 6.2,-1.6 12.7,2.6 7.8,10.4 l -0.2,4.8 c 4.7,0.9 7.4,3.7 5.7,6.4 -1.6,1.8 -15.8,0 -22.3,-1.8 -3.6,0.9 -6.8,2.7 -8.3,4.5 z" />
+      <path style="fill:#000000;fill-opacity:0.419" d="m 18.9,29.7 c 0.7,2.8 0.6,4.5 -0.4,6.4 2.2,-2.8 4.9,-2.8 7.5,-3.6 -0.2,2.7 -0.4,3.6 -0.7,5.4 -3.1,0.9 -6,2.7 -8.4,4.5 l -5,-4.5 c 3.3,-1.8 5.2,-4.6 7,-8.2 z" />
+      <path style="fill:#fccb2b;stroke:#000000;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round" d="m 34,28.6 c 0,7.5 6,5.6 5,-0.1 -1,0.2 -1.9,-0.3 -2.6,-1.4 -0.2,1 -0.6,1.6 -2.4,1.5 z" />
+      <path style="fill:#ffffff" d="m 36.6,30.6 c 0,0 0.3,1 0.5,1 0.3,-1 0.7,-1 0.3,-1.9 -1,0 -0.8,0 -0.8,0.9 z" />
+      <path style="fill:#ffffff" d="m 36.2,28.8 c 0.2,0 0.7,0.9 0.9,0 0,-0.1 -0.2,-0.3 -0.5,-0.5 -0.4,0.3 -0.4,0.5 -0.4,0.5 z" />
+      <path style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="m 25.3,37.9 c 4.6,-1.8 10.3,-2.7 17.6,-4.6" />
+      <path style="fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round" d="M 17,42.4 11.8,37 c 4.3,0 5.2,-3.7 5.6,-7.3 2.5,0 5.1,-0.9 7.9,-5.1 1.7,-2.8 5.5,-5.3 9,-6.5 6.2,-1.6 12.7,2.6 7.8,10.4 l -0.2,4.8 c 4.7,0.9 7.4,3.7 5.7,6.4 -1.6,1.8 -15.8,0 -22.3,-1.8 -3.6,0.9 -6.8,2.7 -8.3,4.5 z" />
+   </symbol>
+</svg>
