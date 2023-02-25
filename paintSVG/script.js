@@ -1,5 +1,6 @@
 const color = document.getElementById('color');
 const svg = document.getElementById("svg5");
+const contenedor = document.querySelector("body");
 let colorSelected = color.value;
 
 let estilos = document.createElement("style");
@@ -19,4 +20,16 @@ svg.addEventListener('click',(e)=>{
 color.addEventListener('input', () => {
     colorSelected = color.value;
     cambiarCursor(colorSelected)
+})
+
+const modoHorizontal = () =>{
+    if(screen.orientation.type === "landscape-primary" || screen.orientation.type === "landscape-secondary")
+        contenedor.classList.add("horizontal");
+    else
+        contenedor.classList.remove("horizontal");
+}
+modoHorizontal();
+
+screen.orientation.addEventListener("change", function(){
+    modoHorizontal();
 })
