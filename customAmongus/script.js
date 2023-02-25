@@ -52,3 +52,12 @@ contentSVG.addEventListener("load",function(){
         }
     })
 });
+screen.orientation.addEventListener("change", function(){
+    const proyecto = document.querySelector("body");
+    console.log(screen.orientation)
+    if(screen.orientation.type === "landscape-primary" || screen.orientation.type === "landscape-secondary")
+        proyecto.classList.add("horizontal");
+    else
+        proyecto.classList.remove("horizontal");
+})
+    
